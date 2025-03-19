@@ -24,7 +24,7 @@ def convert_pdf_to_md(pdf_path, output_dir):
         return False
 
 
-output_dir = os.path.join("markdown", "raw")
+output_dir = os.path.join("table-of-contents", "raw")
 os.makedirs(output_dir, exist_ok=True)
 
 successful = 0
