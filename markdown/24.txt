@@ -1,0 +1,1057 @@
+PAPER001 (Un)making AI Magic: A Design Taxonomy
+PAPER002 AI-Assisted Causal Pathway Diagram for Human-Centered Design
+PAPER003 Enhancing UX Evaluation Through Collaboration with Conversational AI Assistants: Ef-
+PAPER004 Jigsaw: Supporting Designers to Prototype Multimodal Applications by Chaining AI
+PAPER005 VAL: Interactive Task Learning with GPT Dialog Parsing
+PAPER006 Generating Automatic Feedback on UI Mockups with Large Language Models
+PAPER007 MUD: Towards a Large-Scale and Noise-Filtered UI Dataset for Modern Style UI Mod-
+PAPER008 OmniActions: Predicting Digital Actions in Response to Real-World Multimodal Sensory
+PAPER009 SimUser: Generating Usability Feedback by Simulating Various Users Interacting with
+PAPER010 Surveyor: Facilitating Discovery Within Video Games for Blind and Low Vision Players
+PAPER011 CollabCoder: A Lower-barrier, Rigorous Workflow for Inductive Collaborative Qualita-
+PAPER012 Evaluating Large Language Models on Academic Literature Understanding and Review:
+PAPER013 From Paper to Card: Transforming Design Implications with Generative AI
+PAPER014 Know Your Audience: The benefits and pitfalls of generating plain language summaries
+PAPER015 Understanding the Role of Large Language Models in Personalizing and Scaffolding
+PAPER016 “This is not a data problem”: Algorithms and Power in Public Higher Education in
+PAPER017 How AI Processing Delays Foster Creativity: Exploring Research Question Co-Creation
+PAPER018 Integrating measures of replicability into scholarly search: Challenges and opportunities
+PAPER019 PaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers
+PAPER020 Designing a Multisensory VR Game Prototype for Older Adults - the Acceptability and
+PAPER021 Exploring the Opportunity of Augmented Reality (AR) in Supporting Older Adults to
+PAPER022 HelpCall: Designing Informal Technology Assistance for Older Adults via Videoconfer-
+PAPER023 Reducing the Search Space on demand helps Older Adults find Mobile UI Features
+PAPER024 Toward Making Virtual Reality (VR) More Inclusive for Older Adults: Investigating Ag-
+PAPER025 Dealing with Uncertainty: Understanding the Impact of Prognostic Versus Diagnostic
+PAPER026 Exposed or Erased: Algorithmic Censorship of Nudity in Art
+PAPER027 Impact of Model Interpretability and Outcome Feedback on Trust in AI
+PAPER028 Trust in AI-assisted Decision Making: Perspectives from Those Behind the System and
+PAPER029 Algorithmic Ways of Seeing: Using Object Detection to Facilitate Art Exploration
+PAPER030 Art or Artifice? Large Language Models and the False Promise of Creativity
+PAPER031 Authors’ Values and Attitudes Towards AI-bridged Scalable Personalization of Creative
+PAPER032 Generative AI in Creative Practice: ML-Artist Folk Theories of T2I Use, Harm, and
+PAPER033 Jess+: AI and robotics with inclusive music-making
+PAPER034 “Voices Help Correlate Signs and Word”: Analyzing Deaf and Hard-of-Hearing (DHH)
+PAPER035 Audio Engineering by People Who Are deaf and Hard of Hearing: Balancing Confidence
+PAPER036 Communication, Collaboration, and Coordination in a Co-located Shared Augmented Re-
+PAPER037 Look Once to Hear: Target Speech Hearing with Noisy Examples
+PAPER038 A Contextual Inquiry of People with Vision Impairments in Cooking
+PAPER039 FetchAid: Making Parcel Lockers More Accessible to Blind and Low Vision People With
+PAPER040 Help Supporters: Exploring the Design Space of Assistive Technologies to Support Face-
+PAPER041 Towards Inclusive Source Code Readability Based on the Preferences of Programmers
+PAPER042 Visual Cues for Data Analysis Features Amplify Challenges for Blind Spreadsheet Users
+PAPER043 How Do Low-Vision Individuals Experience Information Visualization?
+PAPER044 Navigating Real-World Challenges: A Quadruped Robot Guiding System for Visually
+PAPER045 TADA: Making Node-link Diagrams Accessible to Blind and Low-Vision People
+PAPER046 Umwelt: Accessible Structured Editing of Multi-Modal Data Representations
+PAPER047 “Customization is Key”: Reconfigurable Textual Tokens for Accessible Data Visualiza-
+PAPER048 BubbleCam: Engaging Privacy in Remote Sighted Assistance
+PAPER049 Conveying Emotions through Shape-changing to Children with and without Visual Im-
+PAPER050 Designing to Support Blind and Visually Impaired Older Adults in Managing the Invisi-
+PAPER051 Unblind Text Inputs: Predicting Hint-text of Text Input in Mobile Apps via LLM
+PAPER052 “I Don’t Really Get Involved In That Way”: Investigating Blind and Visually Impaired
+PAPER053 Assessment of Sign Language-Based versus Touch-Based Input for Deaf Users Interacting
+PAPER054 How Users Experience Closed Captions on Live Television: Quality Metrics Remain a
+PAPER055 Towards Co-Creating Access and Inclusion: A Group Autoethnography on a Hearing
+PAPER056 Towards Inclusive Video Commenting: Introducing Signmaku for the Deaf and Hard-of-
+PAPER057 Unspoken Sound: Identifying Trends in Non-Speech Audio Captioning on YouTube
+PAPER058 Barriers to Photosensitive Accessibility in Virtual Reality
+PAPER059 Beyond Repairing with Electronic Speech: Towards Embodied Communication and As-
+PAPER060 Designing Upper-Body Gesture Interaction with and for People with Spinal Muscular
+PAPER061 People with Disabilities Redefining Identity through Robotic and Virtual Avatars: A
+PAPER062 “Can It Be Customized According to My Motor Abilities?”: Toward Designing User-
+PAPER063 Collaborative School Mental Health System: Leveraging a Conversational Agent for En-
+PAPER064 Discovering Accessible Data Visualizations for People with ADHD
+PAPER065 Examining the Use of VR as a Study Aid for University Students with ADHD
+PAPER066 Narrating Routines through Game Dynamics: Impact of a Gamified Routine Manage-
+PAPER067 StarRescue: the Design and Evaluation of A Turn-Taking Collaborative Game for Facili-
+PAPER068 An Emotion Translator: Speculative Design By Neurodiverse Dyads
+PAPER069 Are Robots Ready to Deliver Autism Inclusion?: A Critical Review
+PAPER070 Designing Scaffolding Strategies for Conversational Agents in Dialog Task of Neurocog-
+PAPER071 From Letterboards to Holograms: Advancing Assistive Technology for Nonspeaking Autis-
+PAPER072 Unlock Life with a Chat(GPT): Integrating Conversational AI with Large Language Mod-
+PAPER073 Collaborative Job Seeking for People with Autism: Challenges and Design Opportunities
+PAPER074 Designing for Strengths: Opportunities to Support Neurodiversity in the Workplace
+PAPER075 Towards Digital Independence: Identifying the Tensions between Autistic Young Adults
+PAPER076 Understanding Online Job and Housing Search Practices of Neurodiverse Young Adults
+PAPER077 “It’s the only thing I can trust”: Envisioning Large Language Model Use by Autistic
+PAPER078 Augmented Reality Cues Facilitate Task Resumption after Interruptions in Computer-
+PAPER079 Heads-Up Multitasker: Simulating Attention Switching On Optical Head-Mounted Dis-
+PAPER080 Improving Attention Using Wearables via Haptic and Multimodal Rhythmic Stimuli
+PAPER081 SplitBody: Reducing Mental Workload while Multitasking via Muscle Stimulation
+PAPER082 Supporting Task Switching with Reinforcement Learning
+PAPER083 AudioXtend: Assisted Reality Visual Accompaniments for Audiobook Storytelling Dur-
+PAPER084 Augmented Reality at Zoo Exhibits: A Design Framework for Enhancing the Zoo Expe-
+PAPER085 Comfortable Mobility vs. Attractive Scenery: The Key to Augmenting Narrative Worlds
+PAPER086 Investigating the Design of Augmented Narrative Spaces Through Virtual-Real Connec-
+PAPER087 Jigsaw: Authoring Immersive Storytelling Experiences with Augmented Reality and In-
+PAPER088 “It Must Be Gesturing Towards Me”: Gesture-Based Interaction between Autonomous
+PAPER089 Exploring the Impact of Interconnected External Interfaces in Autonomous Vehicles on
+PAPER090 Light it Up: Evaluating Versatile Autonomous Vehicle-Cyclist External Human-Machine
+PAPER091 Multi-Modal eHMIs: The Relative Impact of Light and Sound in AV-Pedestrian Inter-
+PAPER092 One Size Does Not Fit All: Designing and Evaluating Criticality-Adaptive Displays in
+PAPER093 SoniWeight Shoes: Investigating Effects and Personalization of a Wearable Sound Device
+PAPER094 Charting the Future of AI in Project-Based Learning: A Co-Design Exploration with
+PAPER095 How Culture Shapes What People Want From AI
+PAPER096 MindTalker: Navigating the Complexities of AI-Enhanced Social Engagement for People
+PAPER097 Older Adults Imagining Future Technologies in Participatory Design Workshops: Sup-
+PAPER098 Socio-technical Imaginaries: Envisioning and Understanding AI Parenting Supports through
+PAPER099 Process, Roles, Tools, and Team: Understanding the Emerging Medium of Virtual Real-
+PAPER100 ShareYourReality:
+PAPER101 TimeTunnel: Integrating Spatial and Temporal Motion Editing for Character Animation
+PAPER102 Critiquing Menstrual Pain Technologies through the Lens of Feminist Disability Studies
+PAPER103 Enhancing Auto-Generated Baseball Highlights via Win Probability and Bias Injection
+PAPER104 Sensible and Sensitive AI for Worker Wellbeing: Factors that Inform Adoption and Re-
+PAPER105 Thrown from Normative Ground: Exploring the Potential of Disorientation as a Critical
+PAPER106 Understanding the Effect of Reflective Iteration on Individuals’Physical Activity Plan-
+PAPER107 “I Shot the Interviewer!”: The Effects of In-VR Interviews on Participant Feedback and
+PAPER108 CamTroller: An Auxiliary Tool for Controlling Your Avatar in PC Games Using Natural
+PAPER109 Stretch your reach: Studying Self-Avatar and Controller Misalignment in Virtual Reality
+PAPER110 Virtual Body Swapping: A VR-Based Approach to Embodied Third-Person Self-Processing
+PAPER111 Your Avatar Seems Hesitant to Share About Yourself: How People Perceive Others’
+PAPER112 “I Know I’m Being Observed:” Video Interventions to Educate Users about Targeted
+PAPER113 “Pikachu would electrocute people who are misbehaving”: Expert, Guardian and Child
+PAPER114 Sharenting on TikTok: Exploring Parental Sharing Behaviors and the Discourse Around
+PAPER115 Systemization of Knowledge (SoK): Creating a Research Agenda for Human-Centered
+PAPER116 Tricky vs. Transparent: Towards an Ecologically Valid and Safe Approach for Evaluating
+PAPER117 “I want it to talk like Darth Vader”: Helping Children Construct Creative Self-Eﬀicacy
+PAPER118 “When He Feels Cold, He Goes to the Seahorse”—Blending Generative AI into Multi-
+PAPER119 LegacySphere: Facilitating Intergenerational Communication Through Perspective-Taking
+PAPER120 Open Sesame? Open Salami! Personalizing Vocabulary Assessment-Intervention for Chil-
+PAPER121 Parent-Child Joint Media Engagement Within HCI: A Scoping Analysis of the Research
+PAPER122 “It’s Not a Replacement:” Enabling Parent-Robot Collaboration to Support In-Home
+PAPER123 CHAITok: A Proof-of-Concept System Supporting Children’s Sense of Data Autonomy
+PAPER124 Co-Designing Situated Displays for Family Co-Regulation with ADHD Children
+PAPER125 Cuddling Up With a Print-Braille Book: How Intimacy and Access Shape Parents’ Read-
+PAPER126 Creating Safe Places: Understanding the Lived Experiences of Families Managing Cystic
+PAPER127 GlucoMaker: Enabling Collaborative Customization of Glucose Monitors
+PAPER128 Good Days, Bad Days: Understanding the Trajectories of Technology Use During Chronic
+PAPER129 MigraineTracker: Examining Patient Experiences with Goal-Directed Self-Tracking for a
+PAPER130 PD-Insighter: A Visual Analytics System to Monitor Daily Actions for Parkinson’s Dis-
+PAPER131 Charting the COVID Long Haul Experience - A Longitudinal Exploration of Symptoms,
+PAPER132 Co-designing Customizable Clinical Dashboards with Multidisciplinary Teams: Bridging
+PAPER133 Designing online peer support for parents of adolescents at risk of mental health chal-
+PAPER134 Platforming PCOS Treatment Online: FemTech Logics of Care
+PAPER135 “It’s like a glimpse into the future”: Exploring the Role of Blood Glucose Prediction
+PAPER136 HIV Client Perspectives on Digital Health in Malawi
+PAPER137 Shared Responsibility in Collaborative Tracking for Children with Type 1 Diabetes and
+PAPER138 “I think it saved me. I think it saved my heart”: The Complex Journey From Self-
+PAPER139 “Obviously, Nothing’s Gonna Happen in Five Minutes”: How Adolescents and Young
+PAPER140 Ivie: Lightweight Anchored Explanations of Just-Generated Code
+PAPER141 Learning Agent-based Modeling with LLM Companions: Experiences of Novices and Ex-
+PAPER142 Reading Between the Lines: Modeling User Behavior and Costs in AI-Assisted Program-
+PAPER143 Validating AI-Generated Code with Live Programming
+PAPER144 Cieran: Designing Sequential Colormaps via In-Situ Active Preference Learning
+PAPER145 Color Maker: a Mixed-Initiative Approach to Creating Accessible Color Maps
+PAPER146 Exploring Interactive Color Palettes for Abstraction-Driven Exploratory Image Coloriza-
+PAPER147 Palette, Purpose, Prototype: The Three Ps of Color Design and How Designers Navigate
+PAPER148 Piet: Facilitating Color Authoring for Motion Graphics Video
+PAPER149 Engaged and Affective Virtual Agents: Their Impact on Social Presence, Trustworthi-
+PAPER150 Investigating the Potential of Group Recommendation Systems As a Medium of Social
+PAPER151 Mitigating Barriers to Public Social Interaction with Meronymous Communication
+PAPER152 Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration
+PAPER153 Apple’s Knowledge Navigator: Why Doesn’t that Conversational Agent Exist Yet?
+PAPER154 Towards Designing a Question-Answering Chatbot for Online News: Understanding
+PAPER155 Understanding Public Perceptions of AI Conversational Agents: A Cross-Cultural Anal-
+PAPER156 “It’s a Fair Game”, or Is It? Examining How Users Navigate Disclosure Risks and
+PAPER157 ContextCam: Bridging Context Awareness with Creative Human-AI Image Co-Creation
+PAPER158 InkBrush: A Sketching Tool for 3D Ink Painting
+PAPER159 OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational
+PAPER160 Prompting for Discovery: Flexible Sense-Making for AI Art-Making with Dreamsheets
+PAPER161 TutoAI: a cross-domain framework for AI-assisted mixed-media tutorial creation on phys-
+PAPER162 #PoetsOfInstagram: Navigating The Practices And Challenges Of Novice Poets On In-
+PAPER163 An Artists’ Perspectives on Natural Interactions for Virtual Reality 3D Sketching
+PAPER164 CollageVis: Rapid Previsualization Tool for Indie Filmmaking using Video Collages
+PAPER165 Machine Learning Processes As Sources of Ambiguity: Insights from AI Art
+PAPER166 Metamorpheus: Interactive, Affective, and Creative Dream Narration Through Metaphor-
+PAPER167 Fashioning Creative Expertise with Generative AI: Graphical Interfaces for Design Space
+PAPER168 PlantoGraphy: Incorporating Iterative Design Process into Generative Artificial Intelli-
+PAPER169 ReelFramer: Human-AI Co-Creation for News-to-Video Translation
+PAPER170 Understanding Nonlinear Collaboration between Human and AI Agents: A Co-design
+PAPER171 Unlocking Creator-AI Synergy: Challenges, Requirements, and Design Opportunities in
+PAPER172 C2Ideas: Supporting Creative Interior Color Design Ideation with a Large Language
+PAPER173 Is Resistance Futile?: Early Career Game Developers, Generative AI, and Ethical Skep-
+PAPER174 LumiMood: A Creativity Support Tool for Designing the Mood of a 3D Scene
+PAPER175 TypeDance: Creating Semantic Typographic Logos from Image through Personalized
+PAPER176 When Teams Embrace AI: Human Collaboration Strategies in Generative Prompting in
+PAPER177 An Accessible, Three-Axis Plotter for Enhancing Calligraphy Learning through Gener-
+PAPER178 EyeGuide & EyeConGuide: Gaze-based Visual Guides to Improve 3D Sketching Systems
+PAPER179 Formulating or Fixating: Effects of Examples on Problem Solving Vary as a Function of
+PAPER180 GenQuery: Supporting Expressive Visual Search with Generative Models
+PAPER181 Inkeraction: An Interaction Modality Powered by Ink Recognition and Synthesis
+PAPER182 IntentTuner: An Interactive Framework for Integrating Human Intentions in Fine-tuning
+PAPER183 Is It AI or Is It Me? Understanding Users’Prompt Journey with Text-to-Image Gener-
+PAPER184 Personalizing Products with Stylized Head Portraits for Self-Expression
+PAPER185 PromptCharm: Text-to-Image Generation through Multi-modal Prompting and Refine-
+PAPER186 Table Illustrator: Puzzle-based interactive authoring of plain tables
+PAPER187 Choosing the Right Reality: A Comparative Analysis of Tangibility in Immersive Trauma
+PAPER188 Comparison of Spatial Visualization Techniques for Radiation in Augmented Reality
+PAPER189 Exploring the Design Space of Optical See-through AR Head-Mounted Displays to Sup-
+PAPER190 Agency Aspirations: Understanding Users’ Preferences And Perceptions Of Their Role
+PAPER191 Bystanders of Online Moderation: Examining the Effects of Witnessing Post-Removal
+PAPER192 Community Begins Where Moderation Ends: Peer Support and Its Implications for
+PAPER193 Wikibench: Community-Driven Data Curation for AI Evaluation on Wikipedia
+PAPER194 A Human Information Processing Theory of the Interpretation of Visualizations: Demon-
+PAPER195 Data Storytelling in Data Visualisation: Does it Enhance the Eﬀiciency and Effectiveness
+PAPER196 Make Interaction Situated: Designing User Acceptable Interaction for Situated Visual-
+PAPER197 Reading Between the Pixels: Investigating the Barriers to Visualization Literacy
+PAPER198 VAID: Indexing View Designs in Visual Analytics System
+PAPER199 “Yeah, this graph doesn’t show that”: Analysis of Online Engagement with Misleading
+PAPER200 Epigraphics: Message-Driven Infographics Authoring
+PAPER201 From Exploration to End of Life: Unpacking Sustainability in Physicalization Practices
+PAPER202 StableLev: Data-Driven Stability Enhancement for Multi-Particle Acoustic Levitation
+PAPER203 That’s Rough! Encoding Data into Roughness for Physicalization
+PAPER204 Do You See What I See? A Qualitative Study Eliciting High-Level Visualization Com-
+PAPER205 Effects of Point Size and Opacity Adjustments in Scatterplots
+PAPER206 Spatial Audio-Enhanced Multimodal Graph Rendering for Eﬀicient Data Trend Learning
+PAPER207 To Cut or Not To Cut? A Systematic Exploration of Y-Axis Truncation
+PAPER208 VisTorch: Interacting with Situated Visualizations using Handheld Projectors
+PAPER209 Data Cubes in Hand: A Design Space of Tangible Cubes for Visualizing 3D Spatio-
+PAPER210 DeepSee: Multidimensional Visualizations of Seabed Ecosystems
+PAPER211 MAIDR: Making Statistical Visualizations Accessible with Multimodal Data Represen-
+PAPER212 SalienTime: User-driven Selection of Salient Time Steps for Large-Scale Geospatial Data
+PAPER213 Understanding Reader Takeaways in Thematic Maps Under Varying Text, Detail, and
+PAPER214 Design Opportunities for Care Transitions in Dementia: Understanding Informal Care-
+PAPER215 Evolving Presentation of Self: The Influence of Dementia Communication Challenges on
+PAPER216 Family Caregiver Experiences of Using a Mobile App for Music-based Training to Sup-
+PAPER217 Mnemosyne - Supporting Reminiscence for Individuals with Dementia in Residential
+PAPER218 Technology-Mediated Non-pharmacological Interventions for Dementia: Needs for and
+PAPER219 “I Am So Overwhelmed I Don’t Know Where to Begin!” Towards Developing Relationship-
+PAPER220 A Living Framework for Understanding Cooperative Games
+PAPER221 Demystifying Tacit Knowledge in Graphic Design: Characteristics, Instances, Approaches,
+PAPER222 Embodied Tentacle: Mapping Design to Control of Non-Analogous Body Parts with the
+PAPER223 Imagining Sustainable Energy Communities: Design Narratives of Future Digital Tech-
+PAPER224 A temporal vocabulary of Design Events for Research through Design
+PAPER225 Grand challenges in WaterHCI
+PAPER226 KOALA Hero Toolkit: A New Approach to Inform Families of Mobile Datafication Risks
+PAPER227 Strategies of Product Managers: Negotiating Social Values in Digital Product Design
+PAPER228 VideoClipper: Rapid Prototyping with the”Editing-in-the-Camera” Method
+PAPER229 AdapTics: A Toolkit for Creative Design and Integration of Real-Time Adaptive Mid-Air
+PAPER230 Bitacora: A Toolkit for Supporting NonProfits to Critically Reflect on Social Media Data
+PAPER231 Design Patterns for Data-Driven News Articles
+PAPER232 From Concept to Community: Unpacking the Work of Designing Educational and Ac-
+PAPER233 Griﬀith: A Storyboarding Tool Designed with Japanese Animation Professionals
+PAPER234 An Empathy-Based Sandbox Approach to Bridge the Privacy Gap among Attitudes,
+PAPER235 Designing Accessible Obfuscation Support for Blind Individuals’Visual Privacy Manage-
+PAPER236 Encoding Privacy: Sociotechnical Dynamics of Data Protection Compliance Work
+PAPER237 Redesigning Privacy with User Feedback: The Case of Zoom Attendee Attention Track-
+PAPER238 A case for”little English” in Nurse Notes from the Telehealth Intervention Program for
+PAPER239 Investigating the Mechanisms by which Prevalent Online Community Behaviors Influence
+PAPER240 Leveraging Implementation Science in Human-Centred Design for Digital Health
+PAPER241 Promoting Engagement in Remote Patient Monitoring Using Asynchronous Messaging
+PAPER242 To Reach the Unreachable: Exploring the Potential of VR Hand Redirection for Upper
+PAPER243 A Longitudinal In-the-Wild Investigation of Design Frictions to Prevent Smartphone
+PAPER244 Attention Receipts: Utilizing the Materiality of Receipts to Improve Screen-time Reflec-
+PAPER245 InteractOut: Leveraging Interaction Proxies as Input Manipulation Strategies for Reduc-
+PAPER246 Real-World Winds: Micro Challenges to Promote Balance Post Smartphone Overload
+PAPER247 StayFocused: Examining the Effects of Reflective Prompts and Chatbot Support on Com-
+PAPER248 MindShift: Leveraging Large Language Models for Mental-States-Based Problematic
+PAPER249 Navigating User-System Gaps: Understanding User-Interactions in User-Centric Context-
+PAPER250 Time2Stop: Adaptive and Explainable Human-AI Loop for Smartphone Overuse Inter-
+PAPER251 “I finally felt I had the tools to control these urges”: Empowering Students to Achieve
+PAPER252 “You Can Find a Part of my Life in Every Single App”: An Interview Study of What
+PAPER253 AdaptiveVoice: Cognitively Adaptive Voice Interface for Driving Assistance
+PAPER254 Can You Hazard a Guess?: Evaluating the Effect of Augmented Reality Cues on Driver
+PAPER255 Inter-regional Lens on the Privacy Preferences of Drivers for ITS and Future VANETs
+PAPER256 Portobello: Extending Driving Simulation from the Lab to the Road
+PAPER257 SYNC-VR: Synchronizing Your Senses to Conquer Motion Sickness for Enriching In-
+PAPER258 An Eye Gaze Heatmap Analysis of Uncertainty Head-Up Display Designs for Conditional
+PAPER259 From Slow-Mo to Ludicrous Speed: Comfortably Manipulating the Perception of Linear
+PAPER260 Investigating the Effects of External Communication and Platoon Behavior on Manual
+PAPER261 Understanding Human-machine Cooperation in Game-theoretical Driving Scenarios amid
+PAPER262 Understanding Pedestrians’Perception of Safety and Safe Mobility Practices
+PAPER263 Dances with Drones: Spatial Matching and Perceived Agency in Improvised Movements
+PAPER264 Exploring Intended of Indoor Flying Robots Interacting With Humans in Proximity
+PAPER265 Firefighters’ Perceptions on Collaboration and Interaction with Autonomous Drones: Re-
+PAPER266 HIFuzz: Human Interaction Fuzzing for Small Unmanned Aerial Vehicles
+PAPER267 Swarm Body: Embodied Swarm Robots
+PAPER268 From Primary Education to Premium Workforce: Drawing on K-12 Approaches for De-
+PAPER269 More than Model Documentation: Uncovering Teachers’ Bespoke Information Needs for
+PAPER270 Teaching artificial intelligence in extracurricular contexts through narrative-based learn-
+PAPER271 The Promise and Peril of ChatGPT in Higher Education: Opportunities, Challenges, and
+PAPER272 ml-machine.org: Infrastructuring a Research Product to Disseminate AI Literacy in Ed-
+PAPER273 Exploring AI Problem Formulation with Children via Teachable Machines
+PAPER274 Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through
+PAPER275 Scientific and Fantastical: Creating Immersive, Culturally Relevant Learning Experiences
+PAPER276 Testing, Socializing, Exploring: Characterizing Middle Schoolers’Approaches to and
+PAPER277 VIVID: Human-AI Collaborative Authoring of Vicarious Dialogues from Lecture Videos
+PAPER278 Digital Knick-Knacks: Standalone Audiovisual Digital Possessions or Embellishments in
+PAPER279 EmoWear: Exploring Emotional Teasers for Voice Message Interaction on Smartwatches
+PAPER280 Investigating the Effects of Self-selected Pleasant Scents on Text Composition and Tran-
+PAPER281 Eternagram: Probing Player Attitudes Towards Climate Change Using a ChatGPT-
+PAPER282 Promoting Eco-Friendly Behaviour through Virtual Reality - Implementation and Eval-
+PAPER283 Technical Mentality: Principles for HCI Research and Practice
+PAPER284 Exploring the Association between Moral Foundations and Judgements of AI Behaviour
+PAPER285 Fair Machine Guidance to Enhance Fair Decision Making in Biased People
+PAPER286 The Illusion of Artificial Inclusion
+PAPER287 Which Artificial Intelligences Do People Care About Most? A Conjoint Experiment on
+PAPER288 “They only care to show us the wheelchair”: disability representation in text-to-image
+PAPER289 An Ontology of Dark Patterns Knowledge: Foundations, Definitions, and a Pathway for
+PAPER290 BLIP: Facilitating the Exploration of Undesirable Consequences of Digital Technologies
+PAPER291 Beyond Dark Patterns: A Concept-Based Framework for Ethical Software Design
+PAPER292 Perceptions of Fairness in Technology-Mediated Marketplaces
+PAPER293 STILE: Exploring and Debugging Social Biases in Pre-trained Text Representations
+PAPER294 A Scoping Study of Evaluation Practices for Responsible AI Tools: Steps Towards Effec-
+PAPER295 Building an Ethics-Focused Action Plan: Roles, Process Moves, and Trajectories
+PAPER296 Fighting Malicious Designs: Towards Visual Countermeasures Against Dark Patterns
+PAPER297 Searching for the Non-Consequential: Dialectical Activities in HCI and the Limits of
+PAPER298 Staying at the Roach Motel: Cross-Country Analysis of Manipulative Subscription and
+PAPER299 “AI enhances our performance, I have no doubt this one will do the same”: The Placebo
+PAPER300 An Evaluation of Situational Autonomy for Human-AI Collaboration in a Shared Workspace
+PAPER301 Are We Asking the Right Questions?: Designing for Community Stakeholders’Interac-
+PAPER302 Evaluating the Utility of Conformal Prediction Sets for AI-Advised Image Labeling
+PAPER303 Human-LLM Collaborative Annotation Through Effective Verification of LLM Labels
+PAPER304 ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing
+PAPER305 CloChat: Understanding How People Customize, Interact, and Experience Personas in
+PAPER306 EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Cri-
+PAPER307 Listening to the Voices: Describing Ethical Caveats of Conversational User Interfaces
+PAPER308 Understanding Choice Independence and Error Types in Human-AI Collaboration
+PAPER309 Born to Run, Programmed to Play: Mapping the Extended Reality Exergames Land-
+PAPER310 Enhancing Home Exercise Experiences with Video Motion-Tracking for Automatic Dis-
+PAPER311 Exploring Opportunities for Augmenting Homes to Support Exercising
+PAPER312 Grand Challenges in SportsHCI
+PAPER313 Is it just a score? Understanding Training Load Management Practices Beyond Sports
+PAPER314 EXMOS: Explanatory Model Steering through Multifaceted Explanations and Data Con-
+PAPER315 Incremental XAI: Memorable Understanding of AI with Incremental Explanations
+PAPER316 The Who in XAI: How AI Background Shapes Perceptions of AI Explanations
+PAPER317 User Characteristics in Explainable AI: The Rabbit Hole of Personalization?
+PAPER318 Why the Fine, AI? The Effect of Explanation Level on Citizens’ Fairness Perception of
+PAPER319 EyeEcho: Continuous and Low-power Facial Expression Tracking on Glasses
+PAPER320 MELDER: The Design and Evaluation of a Real-time Silent Speech Recognizer for Mo-
+PAPER321 ReHEarSSE: Recognizing Hidden-in-the-Ear Silently Spelled Expressions
+PAPER322 Uncovering and Addressing Blink-Related Challenges in Using Eye Tracking for Interac-
+PAPER323 Watch Your Mouth: Silent Speech Recognition with Depth Sensing
+PAPER324 ConeAct: A Multistable Actuator for Dynamic Materials
+PAPER325 Reconfigurable Interfaces by Shape Change and Embedded Magnets
+PAPER326 Robotic Metamaterials: A Modular System for Hands-On Configuration of Ad-Hoc Dy-
+PAPER327 TensionFab: Fabrication of Room-scale Surface Structures From the Tension-Active Form
+PAPER328 DungeonMaker: Embedding Tangible Creation and Destruction in Hybrid Board Games
+PAPER329 MoiréWidgets: High-Precision, Passive Tangible Interfaces via Moiré Effect
+PAPER330 PaperTouch: Tangible Interfaces through Paper Craft and Touchscreen Devices
+PAPER331 Squishy, Yet Satisfying: Exploring Deformable Shapes’ Cross-Modal Correspondences
+PAPER332 WooDowel: Electrode Isolation for Electromagnetic Shielding in Triboelectric Plywood
+PAPER333 DisplayFab: The State of the Art and a Roadmap in the Personal Fabrication of Free-
+PAPER334 Tandem: Reproducible Digital Fabrication Workflows as Multimodal Programs
+PAPER335 VabricBeads : Variable Stiffness Structured Fabric using Artificial Muscle in Woven
+PAPER336 ecSkin: Low-Cost Fabrication of Epidermal Electrochemical Sensors for Detecting Biomark-
+PAPER337 pARam: Leveraging Parametric Design in Extended Reality to Support the Personaliza-
+PAPER338 Design Space Exploration for Board-level Circuits: Exploring Alternatives in Component-
+PAPER339 E-Acrylic: Electronic-Acrylic Composites for Making Interactive Artifacts
+PAPER340 LaCir: A multilayered laser-cuttable material to co-fabricate circuitry and structural
+PAPER341 Painting Inferno: Novel Heat and Stiffness Control Methods with Carbon Nanomaterial
+PAPER342 SnapInflatables: Designing Inflatables with Snap-through Instability for Responsive In-
+PAPER343 3D Printing Locally Activated Visual-Displays Embedded in 3D Objects via Electrically
+PAPER344 SketchPath: Using Digital Drawing to Integrate the Gestural Qualities of Craft in CAM-
+PAPER345 SolderlessPCB: Reusing Electronic Components in PCB Prototyping through Detachable
+PAPER346 The Effect of Orientation on the Readability and Comfort of 3D-Printed Braille
+PAPER347 Throwing Out Conventions: Reimagining Craft-Centered CNC Tool Design through the
+PAPER348 CeraMetal: A New Approach to Low-Cost Metal 3D Printing with Bronze Clay
+PAPER349 Palette-PrintAR: augmented reality design and simulation for multicolor resin 3D print-
+PAPER350 Touch-n-Go: Designing and Fabricating Touch Fastening Structures by FDM 3D Printing
+PAPER351 Understanding the Challenges of OpenSCAD Users for 3D Printing
+PAPER352 WeaveSlicer: Expanding the Range of Printable Geometries in Clay
+PAPER353 “Don’t put all your eggs in one basket”: How Cryptocurrency Users Choose and Secure
+PAPER354 Shortchanged: Uncovering and Analyzing Intimate Partner Financial Abuse in Consumer
+PAPER355 Stranger Danger? Investor Behavior and Incentives on Cryptocurrency Copy-Trading
+PAPER356 Supportive Fintech for Individuals with Bipolar Disorder: Financial Data Sharing Pref-
+PAPER357 Trading as Gambling: Social Investing and Financial Risks on the r/WallStreetBets Sub-
+PAPER358 FoodSkin: Fabricating Edible Gold Leaf Circuits on Food Surfaces
+PAPER359 From Plating to Tasting: Towards Understanding the Choreography of Computational
+PAPER360 Füpop:”Real Food” Flavor Delivery via Focused Ultrasound
+PAPER361 GustosonicSense: Towards understanding the design of playful gustosonic eating experi-
+PAPER362 “Ah!
+PAPER363 Cheat Codes as External Support for Players Navigating Fear of Failure and Self-Regulation
+PAPER364 Find the Bot!: Gamifying Facial Emotion Recognition for Both Human Training and
+PAPER365 How does Juicy Game Feedback Motivate? Testing Curiosity, Competence, and Ef-
+PAPER366 Not All the Same: Understanding and Informing Similarity Estimation in Tile-Based
+PAPER367 A Game of Love for Women: Social Support in Otome Game Mr. Love: Queen’s Choice
+PAPER368 Damage Optimization in Video Games: A Player-Driven Co-Creative Approach
+PAPER369 Effects of a Gaze-Based 2D Platform Game on User Enjoyment, Perceived Competence,
+PAPER370 Independent Validation of the Player Experience Inventory: Findings from a Large Set
+PAPER371 The Trick is to Stay Behind?: Defining and Exploring the Design Space of Player Bal-
+PAPER372 FocusFlow: 3D Gaze-Depth Interaction in Virtual Reality Leveraging Active Visual
+PAPER373 Gaze on the Go: Effect of Spatial Reference Frame on Visual Target Acquisition During
+PAPER374 MOSion: Gaze Guidance with Motion-triggered Visual Cues by Mosaic Patterns
+PAPER375 Snap, Pursuit and Gain: Virtual Reality Viewport Control by Gaze
+PAPER376 Towards an Eye-Brain-Computer Interface: Combining Gaze with the Stimulus-Preceding
+PAPER377 Beyond Numbers: Creating Analogies to Enhance Data Comprehension and Communi-
+PAPER378 Design Principles for Generative AI Applications
+PAPER379 RoomDreaming: Generative-AI Approach to Facilitating Iterative, Preliminary Interior
+PAPER380 The Effects of Generative AI on Design Fixation and Divergent Thinking
+PAPER381 User Experience Design Professionals’Perceptions of Generative Artificial Intelligence
+PAPER382 “At the end of the day, I am accountable”: Gig Workers’ Self-Tracking for Multi-
+PAPER383 Bodywork at Work: Attending to Bodily Needs in Gig, Shift, and Knowledge Work
+PAPER384 Designing Gig Worker Sousveillance Tools
+PAPER385 Not Just A Dot on The Map: Food Delivery Workers as Infrastructure
+PAPER386 Silent Delivery: Practices and Challenges of Delivering Among Deaf or Hard of Hearing
+PAPER387 Affective Design: The Influence of Facebook Reactions on the Emotional Expression of
+PAPER388 Data Probes as Boundary Objects for Technology Policy Design: Demystifying Technol-
+PAPER389 In Dice We Trust: Uncertainty Displays for Maintaining Trust in Election Forecasts Over
+PAPER390 V-FRAMER: Visualization Framework for Mitigating Reasoning Errors in Public Policy
+PAPER391 Watching the Election Sausage Get Made: How Data Journalists Visualize the Vote
+PAPER392 “Unrest and trauma stays with you!”: Navigating mental health and professional service-
+PAPER393 Digital Repression in Palestine
+PAPER394 Enhancing Communication Equity: Evaluation of an Automated Speech Recognition Ap-
+PAPER395 Hearing Community Voices in HCI4D: Establishing Safe Places to Co-Create Counter-
+PAPER396 “I know I have this till my Last Breath”: Unmasking the Gaps in Chronic Obstructive
+PAPER397 Challenges to Online Disability Rights Advocacy in India
+PAPER398 Expanding Concepts of Non-Consensual Image-Disclosure Abuse: A Study of NCIDA in
+PAPER399 Explorable Explainable AI: Improving AI Understanding for Community Health Workers
+PAPER400 Viewer2Explorer: Designing a Map Interface for Spatial Navigation in Linear 360 Mu-
+PAPER401 “It looks useful, works just fine, but will it replace me ?” Understanding Special Educa-
+PAPER402 EITPose: Wearable and Practical Electrical Impedance Tomography for Continuous
+PAPER403 EchoWrist: Continuous Hand Pose Tracking and Hand-Object Interaction Recognition
+PAPER404 Emotion Embodied: Unveiling the Expressive Potential of Single-Hand Gestures
+PAPER405 Hand Gesture Recognition for Blind Users by Tracking 3D Gesture Trajectory
+PAPER406 Single-handed Folding Interactions with a Modified Clamshell Flip Phone
+PAPER407 ArmDeformation: Inducing the Sensation of Arm Deformation in Virtual Reality Using
+PAPER408 GazePointAR: A Context-Aware Multimodal Voice Assistant for Pronoun Disambigua-
+PAPER409 QuadStretcher: A Forearm-Worn Skin Stretch Display for Bare-Hand Interaction in
+PAPER410 A Meta-Bayesian Approach for Rapid Online Parametric Optimization for Wrist-based
+PAPER411 Haptic Source-Effector: Full-Body Haptics via Non-Invasive Brain Stimulation
+PAPER412 MouseRing: Always-available Touchpad Interaction with IMU Rings
+PAPER413 Touching the Moon: Leveraging Passive Haptics, Embodiment and Presence for Opera-
+PAPER414 vARitouch: Back of the Finger Device for Adding Variable Compliance to Rigid Objects
+PAPER415 Don’t Look Now: Audio/Haptic Guidance for 3D Scanning of Landmarks
+PAPER416 ErgoPulse: Electrifying Your Lower Body With Biomechanical Simulation-based Electri-
+PAPER417 Haptic Permeability: Adding Holes to Tactile Devices Improves Dexterity
+PAPER418 Motionless Movement: Towards Vibrotactile Kinesthetic Displays
+PAPER419 Thermal Masking: When the Illusion Takes Over the Real
+PAPER420 Augmenting Perceived Length of Handheld Controllers: Effects of Object Handle Prop-
+PAPER421 Experiencing Dynamic Weight Changes in Virtual Reality Through Pseudo-Haptics and
+PAPER422 Exploring Mobile Devices as Haptic Interfaces for Mixed Reality
+PAPER423 InflatableBots: Inflatable Shape-Changing Mobile Robots for Large-Scale Encountered-
+PAPER424 VeeR: Exploring the Feasibility of Deliberately Designing VR Motion that Diverges from
+PAPER425 Designing Unobtrusive Modulated Electrotactile Feedback on Fingertip Edge to Assist
+PAPER426 Paired-EMS: Enhancing Electrical Muscle Stimulation (EMS)-based Force Feedback Ex-
+PAPER427 TacTex: A Textile Interface with Seamlessly-Integrated Electrodes for High-Resolution
+PAPER428 Understanding User Acceptance of Electrical Muscle Stimulation in Human-Computer
+PAPER429 ALCool: Utilizing Alcohol’s Evaporative Cooling for Ubiquitous Cold Sensation Feedback
+PAPER430 AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feed-
+PAPER431 HIFU Embossment of Acrylic Sheets
+PAPER432 Shaping Compliance: Inducing Haptic Illusion of Compliance in Different Shapes with
+PAPER433 Stick&Slip: Altering Fingerpad Friction via Liquid Coatings
+PAPER434 PsiNet: Toward Understanding the Design of Brain-to-Brain Interfaces for Augmenting
+PAPER435 Societal-Scale Human-AI Interaction Design? How Hospitals and Companies are Inte-
+PAPER436 Towards AI-Driven Healthcare: Systematic Optimization, Linguistic Analysis, and Clin-
+PAPER437 Advancing Patient-Centered Shared Decision-Making with AI Systems for Older Adult
+PAPER438 Beyond the Waiting Room: Patient’s Perspectives on the Conversational Nuances of Pre-
+PAPER439 How Much Decision Power Should (A)I Have?: Investigating Patients’Preferences To-
+PAPER440 Understanding the Impact of Long-Term Memory on Self-Disclosure with Large Language
+PAPER441 “It Is a Moving Process”: Understanding the Evolution of Explainability Needs of Clin-
+PAPER442 Human-Algorithmic Interaction Using a Large Language Model-Augmented Artificial In-
+PAPER443 Leveraging Prompt-Based Large Language Models: Predicting Pandemic Health Deci-
+PAPER444 Multimodal Healthcare AI: Identifying and Designing Clinically Relevant Vision-Language
+PAPER445 Rethinking Human-AI Collaboration in Complex Medical Decision Making: A Case Study
+PAPER446 The Illusion of Empathy? Notes on Displays of Emotion in Human-Computer Interaction
+PAPER447 Artful Path to Healing: Using Machine Learning for Visual Art Recommendation to Pre-
+PAPER448 ConverSense: An Automated Approach to Assess Patient-Provider Interactions using
+PAPER449 Explainable Notes: Examining How to Unlock Meaning in Medical Notes with Interac-
+PAPER450 Memoro: Using Large Language Models to Realize a Concise Interface for Real-Time
+PAPER451 Sketching AI Concepts with Capabilities and Examples: AI Innovation in the Intensive
+PAPER452 Designing Communication Feedback Systems To Reduce Healthcare Providers’Implicit
+PAPER453 Designing for Caregiver-facing Values Elicitation Tools
+PAPER454 Hospital Employee Experiences Caring for Patients in Smart Patient Rooms
+PAPER455 Investigating Why Clinicians Deviate from Standards of Care: Liberating Patients from
+PAPER456 Perceived Empathy of Technology Scale (PETS): Measuring Empathy of Systems Toward
+PAPER457 “I’d be watching him contour till 10 o’clock at night”: Understanding Tensions between
+PAPER458 Facilitating Virtual Reality Integration in Medical Education: A Case Study of Accept-
+PAPER459 Looking Together ￿ Seeing the Same Thing: Understanding Surgeons’ Visual Needs Dur-
+PAPER460 MR Microsurgical Suture Training System with Level-Appropriate Support
+PAPER461 Surgment: Segmentation-enabled Semantic Search and Creation of Visual Question and
+PAPER462 LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibi-
+PAPER463 Mentorable Interfaces for Automated Vehicles: A New Paradigm for Designing Learnable
+PAPER464 Navigating the Maze of Routine Disruption: Exploring How Older Adults Living Alone
+PAPER465 Redefining Activity Tracking Through Older Adults’ Reflections on Meaningful Activities
+PAPER466 “X-Ray Vision”as a Compensatory Augmentation for Slowing Cognitive Map Decay in
+PAPER467 (Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI
+PAPER468 Amplifying Human Capabilities in Prostate Cancer Diagnosis: An Empirical Study of
+PAPER469 Care-Based Eco-Feedback Augmented with Generative AI: Fostering Pro-Environmental
+PAPER470 Data Ethics Emergency Drill: A Toolbox for Discussing Responsible AI for Industry
+PAPER471 DeepTreeSketch: Neural Graph Prediction for Faithful 3D Tree Modeling from Sketches
+PAPER472 Guidelines for Integrating Value Sensitive Design in Responsible AI Toolkits
+PAPER473 I lose vs. I earn: Consumer perceived price fairness toward algorithmic (vs. human)
+PAPER474 In-Between Visuals and Visible: The Impacts of Text-to-Image Generative AI Tools on
+PAPER475 JupyterLab in Retrograde: Contextual Notifications That Highlight Fairness and Bias
+PAPER476 Mind The Gap: Designers and Standards on Algorithmic System Transparency for Users
+PAPER477 Towards a Non-Ideal Methodological Framework for Responsible ML
+PAPER478 Understanding Contestability on the Margins: Implications for the Design of Algorithmic
+PAPER479 “The bus is nothing without us”: Making Visible the Labor of Bus Operators amid the
+PAPER480 AI is Entering Regulated Territory: Understanding the Supervisors’ Perspective for
+PAPER481 Empowering Calibrated (Dis-)Trust in Conversational Agents: A User Study on the Per-
+PAPER482 HILL: A Hallucination Identifier for Large Language Models
+PAPER483 ReactGenie: A Development Framework for Complex Multimodal Interactions Using
+PAPER484 See Widely, Think Wisely: Toward Designing a Generative Multi-agent System to Burst
+PAPER485 Synlogue with Aizuchi-bot: Investigating the Co-Adaptive and Open-Ended Interaction
+PAPER486 “Community Guidelines Make this the Best Party on the Internet”: An In-Depth Study
+PAPER487 A Quantitative Approach to Identifying Emergent Editor Roles in Open Street Map
+PAPER488 Examining the Role of Peer Acknowledgements on Social Annotations: Unraveling the
+PAPER489 Insights Into Legacy: Issues of Handover from a Partner-Initiated Project
+PAPER490 SolarClub: Supporting Renewable Energy Communities through an Interactive Coordi-
+PAPER491 Think Fast, Think Slow, Think Critical: Designing an Automated Propaganda Detection
+PAPER492 “Caption It in an Accessible Way That Is Also Enjoyable”: Characterizing User-Driven
+PAPER493 Entangling Entanglement: A Diffractive Dialogue on HCI and Musical Interactions
+PAPER494 Heart and Soul: The Ethics of Biometric Capture in Immersive Artistic Performance
+PAPER495 The Illusion of Increased Customization: Framing Choices as a Creative Process Increases
+PAPER496 Thinking with Sound: Exploring the Experience of Listening to an Ultrasonic Art Instal-
+PAPER497 What Counts as ‘Creative’Work? Articulating Four Epistemic Positions in Creativity-
+PAPER498 Designing a Data-Driven Survey System: Leveraging Participants’ Online Data to Per-
+PAPER499 Input Visualization: Collecting and Modifying Data with Visual Representations
+PAPER500 Multimedia-Enabled 911: Exploring 911 Callers’Experience of Call Taker Controlled
+PAPER501 What’s the Rush?: Alternative Values in Navigation Technologies for Urban Placemaking
+PAPER502 Writing out the Storm: Designing and Evaluating Tools for Weather Risk Messaging
+PAPER503 eKichabi v2: Designing and Scaling a Dual-Platform Agricultural Technology in Rural
+PAPER504 “Is Text-Based Music Search Enough to Satisfy Your Needs?”A New Way to Discover
+PAPER505 A Playbook to be Proud of: Making the Case for LGBTQ+ Inclusive User Account De-
+PAPER506 Conceptualising Fatness within HCI: A Call for Fat Liberation
+PAPER507 Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI
+PAPER508 Designing Diverse Pathways for Participation
+PAPER509 Designing an Archive of Feelings: Queering Tangible Interaction with Button Portraits
+PAPER510 Deus Ex Machina and Personas from Large Language Models: Investigating the Compo-
+PAPER511 Silver-Tongued and Sundry: Exploring Intersectional Pronouns with ChatGPT
+PAPER512 Social Justice in HCI: A Systematic Literature Review
+PAPER513 SustAInable: How Values in the Form of Individual Motivation Shape Algorithms’Out-
+PAPER514 Unpacking Norms, Narratives, and Nourishment: A Feminist HCI Critique on Food
+PAPER515 Evaluating ActuAir: Building Occupants’ Experiences of a Shape-Changing Air Quality
+PAPER516 ExCell: High Expansion Ratio Moisture-Responsive Wooden Actuators for DIY Shape-
+PAPER517 Flextiles: Designing Customisable Shape-Change in Textiles with SMA-Actuated Smock-
+PAPER518 Towards More Sustainable Interactive Textiles: A Literature Review on The Use of Bio-
+PAPER519 A Design Framework for Reflective Play
+PAPER520 Comic-making to Study Game-making: Using Comics in Qualitative Longitudinal Re-
+PAPER521 Community, Storytelling, and Play: Making and Breaking Rituals in Destiny 2
+PAPER522 Ecological In/Congruence: Becoming Sensitised to Nature in Video Games through Hu-
+PAPER523 Outplay Your Weaker Self: A Mixed-Methods Study on Gamification to Overcome Pro-
+PAPER524 Playing on Hard Mode: Accessibility, Diﬀiculty and Joy in Video Game Adoption for
+PAPER525 Understanding Neurodiverse Social Play Between Autistic and Non-Autistic Children
+PAPER526 CareJournal: A Voice-Based Conversational Agent for Supporting Care Communications
+PAPER527 Digital Comprehensibility Assessment of Simplified Texts among Persons with Intellec-
+PAPER528 Hostile Systems: A Taxonomy of Harms Articulated by Citizens Living with Socio-
+PAPER529 Let’s Talk About Death: Existential Conversations with Chatbots
+PAPER530 Networks of care in digital domestic labour economies
+PAPER531 Understanding Antenatal Care Needs through Co-Creation with Roma Women to Inform
+PAPER532 Unpacking ICT-supported Social Connections and Support of Late-life Migration: From
+PAPER533 “If This Person is Suicidal, What Do I Do?”: Designing Computational Approaches to
+PAPER534 “It’s Sink or Swim”: Exploring Patients’ Challenges and Tool Needs for Self-Management
+PAPER535 “Speech is Silver, Silence is Golden” Analyzing Micro-communication Strategies between
+PAPER536 Individual Differences and Technology Affordances Combine to Predict Mobile Social
+PAPER537 Learning About Social Context From Smartphone Data: Generalization Across Countries
+PAPER538 Mindfulness-based Embodied Tangible Interactions for Stroke Rehabilitation at Home
+PAPER539 Quantifying the Pollan Effect: Investigating the Impact of Emerging Psychiatric Inter-
+PAPER540 Seeking in Cycles: How Users Leverage Personal Information Ecosystems to Find Mental
+PAPER541 Somaesthetic Meditation Wearable: Exploring the Effect of Targeted Warmth Technol-
+PAPER542 Using and Appropriating Technology to Support The Menopause Journey in the UK
+PAPER543 A Survey On Measuring Presence in Mixed Reality
+PAPER544 ARCADIA: A Gamified Mixed Reality System for Emotional Regulation and Self-Compassion
+PAPER545 Behind the Scenes: Adapting Cinematography and Editing Concepts to Navigation in
+PAPER546 Implementation of Virtual Reality Motivated Physical Activity via Omnidirectional Tread-
+PAPER547 MobileGravity: Mobile Simulation of a High Range of Weight in Virtual Reality
+PAPER548 The Impact of Avatar Completeness on Embodiment and the Detectability of Hand Redi-
+PAPER549 Behavioral Differences between Tap and Swipe: Observations on Time, Error, Touch-
+PAPER550 Controlling the Rooms: How People Prefer Using Gestures to Control Their Smart
+PAPER551 Cooking With Agents: Designing Context-aware Voice Interaction
+PAPER552 Grip-Reach-Touch-Repeat: A Refined Model of Grasp to Encompass One-Handed Inter-
+PAPER553 Impact of Fingernails Length on Mobile Tactile Interaction
+PAPER554 Model-based Evaluation of Recall-based Interaction Techniques
+PAPER555 Take a Seat, Make a Gesture: Charting User Preferences for On-Chair and From-Chair
+PAPER556 Air/time Travel: Rethinking Appropriation in Global HCI and Futures of Electronic Ex-
+PAPER557 Better Little People Pictures: Generative Creation of Demographically Diverse Anthro-
+PAPER558 Commoning as a Strategy for HCI Research and Design in South Asia
+PAPER559 Design With Rural-To-Urban Migrant Women: Opportunities and Challenges in Design-
+PAPER560 Justice-oriented Design Listening: Participatory Ecoacoustics with a Ghanaian Forest
+PAPER561 Living with Cyanobacteria: Exploring Materiality in Caring for Microbes in Everyday
+PAPER562 Low-Resourced Languages and Online Knowledge Repositories: A Need-Finding Study.
+PAPER563 Migrant Farmworkers’ Experiences of Agricultural Technologies: Implications for Worker
+PAPER564 Play Across Boundaries: Exploring Cross-Cultural Maldaimonic Game Experiences
+PAPER565 Politics of the Past: Understanding the Role of Memory, Postmemory, and Remem-
+PAPER566 Co-design Partners as Transformative Learners: Imagining Ideal Technology for Schools
+PAPER567 Emergency Remote Education in Nigeria: Challenges and Design Opportunities
+PAPER568 Envisioning Support-Centered Technologies for Language Practice and Use: Needs and
+PAPER569 Establishing Heuristics for Improving the Usability of GUI Machine Learning Tools for
+PAPER570 Interrupting for Microlearning: Understanding Perceptions and Interruptibility of Proac-
+PAPER571 Time-Turner: A Bichronous Learning Environment to Support Positive In-class Multi-
+PAPER572 Understanding Takeovers and Telestration in Laparoscopic Surgery to Inform Telemen-
+PAPER573 WriteUpRight: Regulating Children’s Handwriting Body Posture by Unobstrusively
+PAPER574 Analyzing Security and Privacy Advice During the 2022 Russian Invasion of Ukraine on
+PAPER575 Counting Carrds: Investigating Personal Disclosure and Boundary Management in Trans-
+PAPER576 Exploring Privacy Practices of Female mHealth Apps in a Post-Roe World
+PAPER577 In Focus, Out of Privacy: The Wearer’s Perspective on the Privacy Dilemma of Camera
+PAPER578 Stochastic Machine Witnesses at Work: Today’s Critiques of Taylorism are Inadequate
+PAPER579 The Impact of Risk Appeal Approaches on Users’Sharing Confidential Information
+PAPER580 ‘We Do Not Have the Capacity to Monitor All Media’: A Design Case Study on Cyber
+PAPER581 “I Can’t Believe It’s Not Custodial!”: Usable Trustless Decentralized Key Management
+PAPER582 “Please Be Nice”: Robot Responses to User Bullying - Measuring Performance Across
+PAPER583 A Robot Jumping the Queue: Expectations About Politeness and Power During Conflicts
+PAPER584 Giving Robots a Voice: Human-in-the-Loop Voice Creation and open-ended Labeling
+PAPER585 I feel being there, they feel being together: Exploring How Telepresence Robots Facilitate
+PAPER586 PepperPose: Full-Body Pose Estimation with a Companion Robot
+PAPER587 From Agent Autonomy to Casual Collaboration: A Design Investigation on Help-Seeking
+PAPER588 Investigating Effect of Altered Auditory Feedback on Self-Representation, Subjective Op-
+PAPER589 Robot-Assisted Decision-Making: Unveiling the Role of Uncertainty Visualisation and
+PAPER590 The Adaptive Architectural Layout: How the Control of a Semi-Autonomous Mobile
+PAPER591 Trash in Motion: Emergent Interactions with a Robotic Trashcan
+PAPER592 Co-design Accessible Public Robots: Insights from People with Mobility Disability, Robotic
+PAPER593 Designing Multispecies Worlds for Robots, Cats, and Humans
+PAPER594 Impact of Multi-Robot Presence and Anthropomorphism on Human Cognition and Emo-
+PAPER595 Join Me Here if You Will: Investigating Embodiment and Politeness Behaviors When
+PAPER596 Towards Robotic Companions: Understanding Handler-Guide Dog Interactions for In-
+PAPER597 Cohabitant: The Design, Implementation, and Evaluation of a Virtual Reality Applica-
+PAPER598 Navigating the Virtual Gaze: Social Anxiety’s Role in VR Proxemics
+PAPER599 Elastica: Adaptive Live Augmented Presentations with Elastic Mappings Across Modal-
+PAPER600 LLMR: Real-time Prompting of Interactive Worlds using Large Language Models
+PAPER601 Meaning Follows Purpose: Unravelling the Architectural Design Conventions in the Con-
+PAPER602 Unlocking Understanding: An Investigation of Multimodal Communication in Virtual
+PAPER603 Using the Visual Language of Comics to Alter Sensations in Augmented Reality
+PAPER604 Assessing User Apprehensions About Mixed Reality Artifacts and Applications: The
+PAPER605 Development and Validation of the Collision Anxiety Questionnaire for VR Applications
+PAPER606 Evaluating Navigation and Comparison Performance of Computational Notebooks on
+PAPER607 Milliways: Taming Multiverses through Principled Evaluation of Data Analysis Paths
+PAPER608 Virtual Unreality: Augmentation-Oriented Ideation Through Design Cards
+PAPER609 MineXR: Mining Personalized Extended Reality Interfaces
+PAPER610 ProInterAR: A Visual Programming Platform for Creating Immersive AR Interactions
+PAPER611 UI Mobility Control in XR: Switching UI Positionings between Static, Dynamic, and Self
+PAPER612 VirtuWander: Enhancing Multi-modal Interaction for Virtual Tour Guidance through
+PAPER613 Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible
+PAPER614 Cultivating Spoken Language Technologies for Unwritten Languages
+PAPER615 Griot-Style Methodology: Longitudinal Study of Navigating Design With Unwritten Sto-
+PAPER616 Where Generalized Equitable Design Practice Meet Specific Indigenous Communities
+PAPER617 Cosmovision Of Data: An Indigenous Approach to Technologies for Self-Determination
+PAPER618 Examining the”Local” in ICT4D: A Postcolonial Perspective on Participation
+PAPER619 On the Role of Materials Experience for Novel Interactions with Digital Representations
+PAPER620 Partiality and Misconception: Investigating Cultural Representativeness in Text-to-Image
+PAPER621 Mouse2Vec: Learning Reusable Semantic Representations of Mouse Behaviour
+PAPER622 The Effect of Latency on Movement Time in Path-steering
+PAPER623 User Performance in Consecutive Temporal Pointing: An Exploratory Study
+PAPER624 Waiting Time Perceptions for Faster Count-downs/ups Are More Sensitive Than Slower
+PAPER625 Call of the Wild Web: Comparing Parrot Engagement in Live vs. Pre-Recorded Video
+PAPER626 Charting Ethical Tensions in Multispecies Technology Research through Beneficiary-
+PAPER627 Ellie Talks About the Weather: Toward Evaluating the Expressive and Enrichment Po-
+PAPER628 LemurLounge: Lemurs’ Individual-Level, Group, and Cross-Species Use of an Interactive
+PAPER629 No More Angry Birds: Investigating Touchscreen Ergonomics to Improve Tablet-Based
+PAPER630 Effects of Device Environment and Information Layout on Spatial Memory and Perfor-
+PAPER631 Rowing Beyond: Investigating Steering Methods for Rowing-based Locomotion in Vir-
+PAPER632 Sicknificant Steps: A Systematic Review and Meta-analysis of VR Sickness in Walking-
+PAPER633 Spatial Gaze Markers: Supporting Effective Task Switching in Augmented Reality
+PAPER634 The RayHand Navigation: A Virtual Navigation Method with Relative Position between
+PAPER635 Assessing the Influence of Visual Cues in Virtual Reality on the Spatial Perception of
+PAPER636 Exploring Visualizations for Precisely Guiding Bare Hand Gestures in Virtual Reality
+PAPER637 Improving Electromyographic Muscle Response Times through Visual and Tactile Prior
+PAPER638 MAF: Exploring Mobile Acoustic Field for Hand-to-Face Gesture Interactions
+PAPER639 PhoneInVR: An Evaluation of Spatial Anchoring and Interaction Techniques for Smart-
+PAPER640 “Are we all in the same boat?” Customizable and Evolving Avatars to Improve Worker
+PAPER641 How Knowledge Workers Think Generative AI Will (Not) Transform Their Industries
+PAPER642 How Low is Low? Crowdworker Perceptions of Microtask Payments in Work versus
+PAPER643 LabelAId: Just-in-time AI Interventions for Improving Human Labeling Quality and Do-
+PAPER644 Luminate: Structured Generation and Exploration of Design Space with Large Language
+PAPER645 Model Compression in Practice: Lessons Learned from Practitioners Creating On-device
+PAPER646 Narrating Fitness: Leveraging Large Language Models for Reflective Fitness Tracker
+PAPER647 RELIC: Investigating Large Language Model Responses using Self-Consistency
+PAPER648 Talaria: Interactively Optimizing Machine Learning Models for Eﬀicient Inference
+PAPER649 ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learn-
+PAPER650 CodeAid: Evaluating a Classroom Deployment of an LLM-based Programming Assistant
+PAPER651 How Beginning Programmers and Code LLMs (Mis)read Each Other
+PAPER652 Teach AI How to Code: Using Large Language Models as Teachable Agents for Program-
+PAPER653 EXPLORA: A teacher-apprentice methodology for eliciting natural child-computer in-
+PAPER654 From Prisons to Programming: Fostering Self-Eﬀicacy via Virtual Web Design Curricula
+PAPER655 Interactive Murals: New Opportunities for Collaborative STEAM Learning
+PAPER656 Mapping Accessibility Assignments into Core Computer Science Topics: An Empirical
+PAPER657 The Matchmaker Inclusive Design Curriculum: A Faculty-Enabling Curriculum to Teach
+PAPER658 Bridging the Literacy Gap for Adults: Streaming and Engaging in Adult Literacy Edu-
+PAPER659 ClassMeta: Designing Interactive Virtual Classmate to Promote VR Classroom Partici-
+PAPER660 Investigating the Effects of Real-time Student Monitoring Interface on Instructors’Mon-
+PAPER661 Privacy Concerns of Student Data Shared with Instructors in an Online Learning Man-
+PAPER662 Simulator-based Mixed Reality eVTOL Pilot Training: The Instructor Operator Station
+PAPER663 ClassInSight: Designing Conversation Support Tools to Visualize Classroom Discussion
+PAPER664 Investigating Demographics and Motivation in Engineering Education Using Radio and
+PAPER665 Virtual Reality, Real Pedagogy: A Contextual Inquiry of Instructor Practices with VR
+PAPER666 Xylocode: A Novel Approach to Fostering Interest in Computer Science via an Embodied
+PAPER667 “Oh My God! It’s Recreating Our Room!”Understanding Children’s Experiences with
+PAPER668 A Piece of Theatre: Investigating How Teachers Design LLM Chatbots to Assist Adoles-
+PAPER669 Enhancing ESL Learners’ Experience and Performance through Gradual Adjustment of
+PAPER670 Morphing Matter for Teens: Research Processes as a Template for Cross-Disciplinary
+PAPER671 Toward Supporting Adaptation: Exploring Affect’s Role in Cognitive Load when Using
+PAPER672 Contrasting Perspectives of Workers: Exploring Labor Relations in Workplace Automa-
+PAPER673 Designing Instructions using Self-Determination Theory to Improve Motivation and En-
+PAPER674 Learning from Hybrid Craft: Investigating and Reflecting on Innovating and Enlivening
+PAPER675 SharedNeRF: Leveraging Photorealistic and View-dependent Rendering for Real-time
+PAPER676 BIDTrainer: An LLMs-driven Education Tool for Enhancing the Understanding and Rea-
+PAPER677 Putting Things into Context: Generative AI-Enabled Context Personalization for Vocab-
+PAPER678 Teachers, Parents, and Students’ perspectives on Integrating Generative AI into Elemen-
+PAPER679 Teaching Middle Schoolers about the Privacy Threats of Tracking and Pervasive Person-
+PAPER680 The Metacognitive Demands and Opportunities of Generative AI
+PAPER681 Doorways Do Not Always Cause Forgetting: Studying the Effect of Locomotion Tech-
+PAPER682 Exploring Experience Gaps Between Active and Passive Users During Multi-user Loco-
+PAPER683 Investigating Virtual Reality Locomotion Techniques with Blind People
+PAPER684 Stacked Retargeting: Combining Redirected Walking and Hand Redirection to Expand
+PAPER685 The Effect of Spatial Audio on Curvature Gains in VR Redirected Walking
+PAPER686 “Islamically, I am not on my period”: A Study of Menstrual Tracking in Muslim Women
+PAPER687 Functional Design Requirements to Facilitate Menstrual Health Data Exploration
+PAPER688 My Data, My Choice, My Insights: Women’s Requirements when Collecting, Interpret-
+PAPER689 Tracking During Ramadan: Examining the Intersection of Menstrual and Religious Track-
+PAPER690 Understanding Cultural and Religious Values Relating to Awareness of Women’s Inti-
+PAPER691 ’I Call Upon a Friend’: Virtual Reality-Based Supports for Cognitive Reappraisal Iden-
+PAPER692 HCI Contributions in Mental Health: A Modular Framework to Guide Psychosocial In-
+PAPER693 Multi-stakeholder Perspectives on Mental Health Screening Tools for Children
+PAPER694 Supporting Cognitive Reappraisal With Digital Technology: A Content Analysis and
+PAPER695 “Can you be with that feeling?”: Extending Design Strategies for Interoceptive Aware-
+PAPER696 Approaches for tailoring between-session mental health therapy activities
+PAPER697 Challenges and Opportunities for the Design of Inclusive Digital Mental Health Tools:
+PAPER698 Co-designing the Collaborative Digital Musical Instruments for Group Music Therapy
+PAPER699 Exploring Context-Aware Mental Health Self-Tracking Using Multimodal Smart Speak-
+PAPER700 Facilitating Self-Guided Mental Health Interventions Through Human-Language Model
+PAPER701 MindfulDiary: Harnessing Large Language Model to Support Psychiatric Patients’ Jour-
+PAPER702 Patient Perspectives on AI-Driven Predictions of Schizophrenia Relapses: Understanding
+PAPER703 Simulating Emotions With an Integrated Computational Model of Appraisal and Rein-
+PAPER704 Understanding Human-AI Collaboration in Music Therapy Through Co-Design with
+PAPER705 (Re)activate, (Re)direct, (Re)arrange: Exploring the Design Space of Direct Interactions
+PAPER706 Go-Go Biome: Evaluation of a Casual Game for Gut Health Engagement and Reflection
+PAPER707 Microbial Revolt: Redefining biolab tools and practices for more-than-human care ecolo-
+PAPER708 PaleoScan: Low-Cost Easy-to-use High-Volume Fossil Scanning
+PAPER709 Controlled-STM: A Two-stage Model to Predict User’s Perceived Intensity for Multi-
+PAPER710 Designing Distinguishable Mid-Air Ultrasound Tactons with Temporal Parameters
+PAPER711 Designing Haptic Feedback for Sequential Gestural Inputs
+PAPER712 Ultrasonic Mid-Air Haptics on the Face: Effects of Lateral Modulation Frequency and
+PAPER713 Fragmented Moments, Balanced Choices: How Do People Make Use of Their Waiting
+PAPER714 Leveraging Idle Games to Incentivize Intermittent and Frequent Practice of Deep Breath-
+PAPER715 Mindful Scroll: An Infinite Scroll Abstract Colouring App for Mindfulness
+PAPER716 My Voice as a Daily Reminder: Self-Voice Alarm for Daily Goal Achievement
+PAPER717 Stairway to Heaven: A Gamified VR Journey for Breath Awareness
+PAPER718 Designing for Human Operations on the Moon: Challenges and Opportunities of Navi-
+PAPER719 Real-time 3D Target Inference via Biomechanical Simulation
+PAPER720 WAVE: Anticipatory Movement Visualization for VR Dancing
+PAPER721 Watch This! Observational Learning in VR Promotes Better Far Transfer than Active
+PAPER722 Better Definition and Calculation of Throughput and Effective Parameters for Steering
+PAPER723 Design Space of Visual Feedforward And Corrective Feedback in XR-Based Motion Guid-
+PAPER724 Metrics of Motor Learning for Analyzing Movement Mapping in Virtual Reality
+PAPER725 WieldingCanvas: Interactive Sketch Canvases for Freehand Drawing in VR
+PAPER726 A Way for Deaf and Hard of Hearing People to Enjoy Music by Exploring and Customiz-
+PAPER727 Capturing Cancer as Music: Cancer Mechanisms Expressed through Musification
+PAPER728 Challenges of Music Score Writing and the Potentials of Interactive Surfaces
+PAPER729 MARingBA: Music-Adaptive Ringtones for Blended Audio Notification Delivery
+PAPER730 Sound Designer-Generative AI Interactions: Towards Designing Creative Support Tools
+PAPER731 Analyzing User Engagement with TikTok’s Short Format Video Recommendations using
+PAPER732 How Founder Motivations, Goals, and Actions Influence Early Trajectories of Online
+PAPER733 Mapping the Design Space of Teachable Social Media Feed Experiences
+PAPER734 Message in a Bottle: Investigating Bioart Installations as a Transdisciplinary Means of
+PAPER735 “I Prefer Regular Visitors to Answer My Questions”: Users’Desired Experiential Back-
+PAPER736 Behind the Pup-ularity Curtain: Understanding the Motivations, Challenges, and Work
+PAPER737 Choosing What You Want Versus Getting What You Want: An Experiment with Choice
+PAPER738 Not What it Used to Be: Characterizing Content and User-base Changes in Newly Cre-
+PAPER739 Observer Effect in Social Media Use
+PAPER740 Recordkeeping in Voice-based Remote Community Engagement
+PAPER741 “I Got Flagged for Supposed Bullying, Even Though It Was in Response to Someone
+PAPER742 Counterspeakers’Perspectives: Unveiling Barriers and AI Needs in the Fight against
+PAPER743 “It’s Not What We Were Trying to Get At, but I Think Maybe It Should Be”: Learning
+PAPER744 “Vulnerable, Victimized, and Objectified”: Understanding Ableist Hate and Harassment
+PAPER745 Explaining It Your Way - Findings from a Co-Creative Design Workshop on Designing
+PAPER746 From Fitting Participation to Forging Relationships: The Art of Participatory ML
+PAPER747 Generative AI in the Wild: Prospects, Challenges, and Strategies
+PAPER748 How Do Analysts Understand and Verify AI-Assisted Data Analyses?
+PAPER749 The Situate AI Guidebook: Co-Designing a Toolkit to Support Multi-Stakeholder, Early-
+PAPER750 Beyond the Blink: Investigating Combined Saccadic & Blink-Suppressed Hand Redirec-
+PAPER751 Big or Small, It’s All in Your Head: Visuo-Haptic Illusion of Size-Change Using Finger-
+PAPER752 Flicker Augmentations: Rapid Brightness Modulation for Real-World Visual Guidance
+PAPER753 STMG: A Machine Learning Microgesture Recognition System for Supporting Thumb-
+PAPER754 TriPad: Touch Input in AR on Ordinary Surfaces with Hand Tracking Only
+PAPER755 Exploring the association between engagement with location-based game features and
+PAPER756 Quantifying Wrist-Aiming Habits with A Dual-Sensor Mouse: Implications for Player
+PAPER757 Sweating the Details: Emotion Recognition and the Influence of Physical Exertion in
+PAPER758 Traumatizing or Just Annoying? Unveiling the Spectrum of Gamer Toxicity in the Star-
+PAPER759 “Backseat Gaming” A Study of Co-Regulated Learning within a Collegiate Male Esports
+PAPER760 “Things on the Ground are Different”: Utility, Survival and Ethics in Multi-Device Own-
+PAPER761 A Canary in the AI Coal Mine: American Jews May Be Disproportionately Harmed by
+PAPER762 Products of Positionality: How Tech Workers Shape Identity Concepts in Computer Vi-
+PAPER763 SalChartQA: Question-driven Saliency on Information Visualisations
+PAPER764 When the Body Became Data: Historical Data Cultures and Anatomical Illustration
+PAPER765 Aligning Data with the Goals of an Organization and Its Workers: Designing Data La-
+PAPER766 Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM
+PAPER767 Situating Datasets: Making Public Eviction Data Actionable for Housing Justice
+PAPER768 The Cadaver in the Machine: The Social Practices of Measurement and Validation in
+PAPER769 The “Colonial Impulse” of Natural Language Processing: An Audit of Bengali Sentiment
+PAPER770 Bring Privacy To The Table: Interactive Negotiation for Privacy Settings of Shared Sens-
+PAPER771 Under the (neighbor)hood: Hyperlocal Surveillance on Nextdoor
+PAPER772 What You Experience is What We Collect: User Experience Based Fine-Grained Per-
+PAPER773 What to the Muslim is Internet search: Digital Borders as Barriers to Information
+PAPER774 “I Don’t Want to Become a Number”: Examining Different Stakeholder Perspectives on
+PAPER775 Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks
+PAPER776 Dungeons & Deepfakes: Using scenario-based role-play to study journalists’ behavior to-
+PAPER777 Examining Human Perception of Generative Content Replacement in Image Privacy Pro-
+PAPER778 It’s Trying Too Hard To Look Real: Deepfake Moderation Mistakes and Identity-Based
+PAPER779 Non-Consensual Synthetic Intimate Imagery: Prevalence, Attitudes, and Knowledge in
+PAPER780 Computing and the Stigmatized: Trust, Surveillance, and Spatial Politics with the Sex
+PAPER781 Lies, Deceit, and Hallucinations: Player Perception and Expectations Regarding Trust
+PAPER782 “I know even if you don’t tell me”: Understanding Users’ Privacy Preferences Regarding
+PAPER783 Kinetic Signatures: A Systematic Investigation of Movement-Based User Identification
+PAPER784 Privacy in Immersive Extended Reality: Exploring User Perceptions, Concerns, and Cop-
+PAPER785 Measuring Compliance with the California Consumer Privacy Act Over Space and Time
+PAPER786 Privacy of Default Apps in Apple’s Mobile Ecosystem
+PAPER787 PriviAware: Exploring Data Visualization and Dynamic Privacy Control Support for
+PAPER788 Websites Need Your Permission Too – User Sentiment and Decision-Making on Web
+PAPER789 “That’s Kind of Sus(picious)”: The Comprehensiveness of Mental Health Application
+PAPER790 “We Have No Security Concern”: Understanding the Privacy-Security Nexus in Tele-
+PAPER791 An Investigation of US Universities’ Implementation of FERPA Student Directory Poli-
+PAPER792 On the Feasibility of Predicting Users’ Privacy Concerns using Contextual Labels and
+PAPER793 Out-of-Device Privacy Unveiled: Designing and Validating the Out-of-Device Privacy
+PAPER794 Socially Late, Virtually Present: The Effects of Transforming Asynchronous Social Inter-
+PAPER795 The Effects of False but Stable Heart Rate Feedback on Cybersickness and User Experi-
+PAPER796 Was it Real or Virtual? Confirming the Occurrence and Explaining Causes of Memory
+PAPER797 “I’d rather drink in VRChat”: Understanding Drinking in Social Virtual Reality
+PAPER798 Blended Whiteboard: Physicality and Reconfigurability in Remote Mixed Reality Col-
+PAPER799 From Real to Virtual: Exploring Replica-Enhanced Environment Transitions along the
+PAPER800 Seated-WIP: Enabling Walking-in-Place Locomotion for Stationary Chairs in Confined
+PAPER801 SwitchSpace: Understanding Context-Aware Peeking Between VR and Desktop Inter-
+PAPER802 Volumetric Hybrid Workspaces: Interactions with Objects in Remote and Co-located
+PAPER803 AI-Driven Mediation Strategies for Audience Depolarisation in Online Debates
+PAPER804 Capra: Making Use of Multiple Perspectives for Capturing, Noticing and Revisiting Hik-
+PAPER805 Debate Chatbots to Facilitate Critical Thinking on YouTube: Social Identity and Con-
+PAPER806 Help Me Reflect: Leveraging Self-Reflection Interface Nudges to Enhance Deliberative-
+PAPER807 Viblio: Introducing Credibility Signals and Citations to Video-Sharing Platforms
+PAPER808 From Disorientation to Harmony: Autoethnographic Insights into Transformative Videogame
+PAPER809 Momentary Stressor Logging and Reflective Visualizations: Implications for Stress Man-
+PAPER810 New Understandings of Loss: Examining the Role of Reflective Technology Within Be-
+PAPER811 Supporting Experiential Learning in People with Gestational Diabetes Mellitus
+PAPER812 “I feel like he’s looking in the computer world to be social, but I can’t trust his judge-
+PAPER813 “I Deleted It After the Overturn of Roe v. Wade”: Understanding Women’s Privacy
+PAPER814 Teen Reproductive Health Information Seeking and Sharing Post-Roe
+PAPER815 Unpacking the Lived Experience of Collaborative Pregnancy Tracking
+PAPER816 “Our Users’ Privacy is Paramount to Us”: A Discourse Analysis of How Period and
+PAPER817 Designing a Card-Based Design Tool to Bridge Academic Research & Design Practice
+PAPER818 DiaryHelper: Exploring the Use of an Automatic Contextual Information Recording
+PAPER819 Playing with Perspectives and Unveiling the Autoethnographic Kaleidoscope in HCI –A
+PAPER820 The Future of HCI-Policy Collaboration
+PAPER821 “To Click or not to Click”: Back to Basic for Experience Sampling for Oﬀice Well-being
+PAPER822 Did You Misclick? Reversing 5-Point Satisfaction Scales Causes Unintended Responses
+PAPER823 Towards Estimating Missing Emotion Self-reports Leveraging User Similarity: A Multi-
+PAPER824 Understanding fraudulence in online qualitative studies: From the researcher’s perspec-
+PAPER825 Who is “I”?: Subjectivity and Ethnography in HCI
+PAPER826 Better Together: The Interplay Between a Phishing Awareness Video and a Link-centric
+PAPER827 Comparing the Use and Usefulness of Four IoT Security Labels
+PAPER828 Interdisciplinary Approaches to Cybervulnerability Impact Assessment for Energy Crit-
+PAPER829 The Effects of Group Discussion and Role-playing Training on Self-eﬀicacy, Support-
+PAPER830 Usable News Authentication: How the Presentation and Location of Cryptographic In-
+PAPER831 I see an IC: A Mixed-Methods Approach to Study Human Problem-Solving Processes in
+PAPER832 Is a Trustmark and QR Code Enough? The Effect of IoT Security and Privacy Label
+PAPER833 Mental Models, Expectations and Implications of Client-Side Scanning: An Interview
+PAPER834 SkullID: Through-Skull Sound Conduction based Authentication for Smartglasses
+PAPER835 VeriSMS: A Message Verification System for Inclusive Patient Outreach against Phishing
+PAPER836 Explanations, Fairness, and Appropriate Reliance in Human-AI Decision-Making
+PAPER837 Selenite: Scaffolding Online Sensemaking with Comprehensive Overviews Elicited from
+PAPER838 Supporting Sensemaking of Large Language Model Outputs at Scale
+PAPER839 Unraveling the Dilemma of AI Errors: Exploring the Effectiveness of Human and Ma-
+PAPER840 “Are You Really Sure?”Understanding the Effects of Human Self-Confidence Calibration
+PAPER841 Dissecting users’ needs for search result explanations
+PAPER842 Marco: Supporting Business Document Workflows via Collection-Centric Information
+PAPER843 Natural Language Dataset Generation Framework for Visualizations Powered by Large
+PAPER844 Towards a Diffractive Analysis of Prompt-Based Generative AI
+PAPER845 Where Are We So Far? Understanding Data Storytelling Tools from the Perspective of
+PAPER846 Better to Ask Than Assume: Proactive Voice Assistants’Communication Strategies That
+PAPER847 Connecting Home: Human-Centric Setup Automation in the Augmented Smart Home
+PAPER848 FLUID-IoT : Flexible and Fine-Grained Access Control in Shared IoT Environments via
+PAPER849 More than just informed: The importance of consent facets in smart homes
+PAPER850 Signs of the Smart City: Exploring the Limits and Opportunities of Transparency
+PAPER851 Decide Yourself or Delegate - User Preferences Regarding the Autonomy of Personal
+PAPER852 Tagnoo: Enabling Smart Room-Scale Environments with RFID-Augmented Plywood
+PAPER853 Understanding Users’ Interaction with Login Notifications
+PAPER854 Who Should Hold Control? Rethinking Empowerment in Home Automation among Co-
+PAPER855 “You can’t write down the logic”: Bringing smart technology into the water infras-
+PAPER856 Desktop Biofibers Spinning: An Open-Source Machine for Exploring Biobased Fibers
+PAPER857 EcoThreads: Prototyping Biodegradable E-textiles Through Thread-based Fabrication
+PAPER858 Expressive Clothing: Understanding Hobbyist-Sewers’ Visions for Self-Expression Through
+PAPER859 IntelliTex: Fabricating Low-cost and Washable Functional Textiles using A Double-
+PAPER860 KnitScape: Computational Design and Yarn-Level Simulation of Slip and Tuck Color-
+PAPER861 Cymatics Cup: Shape-Changing Drinks by Leveraging Cymatics
+PAPER862 Loopsense: low-scale, unobtrusive, and minimally invasive knitted force sensors for multi-
+PAPER863 MagneSwift: Low-Cost, Interactive Shape Display Leveraging Magnetic Materials
+PAPER864 Shape-Changing Clay-Dough: Taking a Material-Oriented Approach to 3D Printing Ce-
+PAPER865 Waxpaper Actuator: Sequentially and Conditionally Programmable Wax Paper for Mor-
+PAPER866 “We happen to be different and different is not bad”: Designing for Intersectional Fat-
+PAPER867 Examining the Unique Online Risk Experiences and Mental Health Outcomes of LGBTQ+
+PAPER868 Negotiating Sociotechnical Boundaries: Moderation Work to Counter Racist Attacks in
+PAPER869 “Some Hope, Many Despair”: Experiences of the Normalization within Online Dating
+PAPER870 A Human-Centered Review of Algorithms in Homelessness Research
+PAPER871 Engaging recently incarcerated and gang aﬀiliated Black and Latino/a young adults in de-
+PAPER872 Evaluating the Experience of LGBTQ+ People Using Large Language Model Based Chat-
+PAPER873 Socioeconomic Class in Physical Activity Wearables Research and Design
+PAPER874 “Butt call me once you get a chance to chat ￿” : Designing Persuasive Reminders for
+PAPER875 Machine and Human Understanding of Empathy in Online Peer Support: A Cognitive
+PAPER876 Saharaline: A Collective Social Support Intervention for Teachers in Low-Income Indian
+PAPER877 The Sound of Support: Gendered Voice Agent as Support to Minority Teammates in
+PAPER878 Transitioning Towards a Proactive Practice: A Longitudinal Field Study on the Imple-
+PAPER879 Designing for Harm Reduction: Communication Repair for Multicultural Users’ Voice
+PAPER880 Keyboard Fighters: The Use of ICTs by Activists in Times of Military Coup in Myanmar
+PAPER881 Persuasion or Insulting? Unpacking Discursive Strategies of Gender Debate in Everyday
+PAPER882 Seam Work and Simulacra of Societal Impact in Networking Research: A Critical Tech-
+PAPER883 Starting a New Life after Crossing the Tumen River: How North Korean Defectors Use
+PAPER884 A Human-AI Collaborative Approach for Designing Sound Awareness Systems
+PAPER885 Interactive Shape Sonification for Tumor Localization in Breast Cancer Surgery
+PAPER886 Remembering through Sound: Co-creating Sound-based Mementos together with People
+PAPER887 Using Low-frequency Sound to Create Non-contact Sensations On and In the Body
+PAPER888 Designing and Evaluating an Advanced Dance Video Comprehension Tool with In-situ
+PAPER889 DoodleTunes: Interactive Visual Analysis of Music-Inspired Children Doodles with Au-
+PAPER890 Exploring Collaborative Movement Improvisation Towards the Design of LuminAI—a
+PAPER891 FabSound: Audio-Tactile and Affective Fabric Experiences Through Mid-air Haptics
+PAPER892 Understanding Feedback in Rhythmic Gymnastics Training: An Ethnographic-Informed
+PAPER893 Constrained Highlighting in a Document Reader can Improve Reading Comprehension
+PAPER894 GazePrompt: Enhancing Low Vision People’s Reading Experience with Gaze-Aware Aug-
+PAPER895 Making Short-Form Videos Accessible with Hierarchical Video Summaries
+PAPER896 PhotoScout: Synthesis-Powered Multi-Modal Image Search
+PAPER897 “It’s Kind of Context Dependent”: Understanding Blind and Low Vision People’s
+PAPER898 An AI-Resilient Text Rendering Technique for Reading and Skimming Documents
+PAPER899 Caption Royale: Exploring the Design Space of Affective Captions from the Perspective
+PAPER900 From Provenance to Aberrations: Image Creator and Screen Reader User Perspectives
+PAPER901 Investigating Use Cases of AI-Powered Scene Description Applications for Blind and Low
+PAPER902 SPICA: Interactive Video Content Exploration through Augmented Audio Descriptions
+PAPER903 ChaCha: Leveraging Large Language Models to Prompt Children to Share Their Emo-
+PAPER904 For Me or Not for Me? The Ease With Which Teens Navigate Accurate and Inaccurate
+PAPER905 From Adolescents’ Eyes: Assessing an Indicator-Based Intervention to Combat Misinfor-
+PAPER906 Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-
+PAPER907 ‘A Teaspoon of Authenticity’: Exploring How Young Adults BeReal on Social Media
+PAPER908 COR Themes for Readability from Iterative Feedback
+PAPER909 ChatDirector: Enhancing Video Conferencing with Space-Aware Scene Rendering and
+PAPER910 Co-Designing QuickPic: Automated Topic-Specific Communication Boards from Pho-
+PAPER911 Empowering Independence Through Design: Investigating Standard Digital Design Pat-
+PAPER912 Lights, Camera, Access: A Closeup on Audiovisual Media Accessibility and Aphasia
+PAPER913 “It Is Easy Using My Apps:” Understanding Technology Use and Needs of Adults with
+PAPER914 Breaking Badge: Augmenting Communication with Wearable AAC Smartbadges and
+PAPER915 COMPA: Using Conversation Context to Achieve Common Ground in AAC
+PAPER916 Finding My Voice over Zoom: An Autoethnography of Videoconferencing Experience for
+PAPER917 Voice Assistive Technology for Activities of Daily Living: Developing an Alexa Telehealth
+PAPER918 “Delete it and Move On”: Digital Management of Shared Sexual Content after a Breakup
+PAPER919 A Change of Scenery: Transformative Insights from Retrospective VR Embodied Perspective-
+PAPER920 Rehearsal: Simulating Conflict to Teach Conflict Resolution
+PAPER921 Seeking Soulmate via Voice: Understanding Promises and Challenges of Online Synchro-
+PAPER922 Sharing Frissons among Online Video Viewers: Exploring the Design of Affective Com-
+PAPER923 Do We Run How We Say We Run? Formalization and Practice of Governance in OSS
+PAPER924 In Between Users and Developers: Serendipitous Connections and Intermediaries in
+PAPER925 Pika: Empowering Non-Programmers to Author Executable Governance Policies in On-
+PAPER926 Third-Party Developers and Tool Development For Community Management on Live
+PAPER927 “I was able to give her the confidence”: Reciprocal Capacity Building in a Community-
+PAPER928 AQuA: Automated Question-Answering in Software Tutorial Videos with Visual Anchors
+PAPER929 Meta-Manager: A Tool for Collecting and Exploring Meta Information about Code
+PAPER930 SQL Puzzles: Evaluating Micro Parsons Problems With Different Feedbacks as Practice
+PAPER931 Taking ASCII Drawings Seriously: How Programmers Diagram Code
+PAPER932 Understanding the Needs of Novice Developers in Creating Self-Powered IoT
+PAPER933 “Do You Want Me to Participate or Not?”: Investigating the Accessibility of Software
+PAPER934 CoPrompt: Supporting Prompt Sharing and Referring in Collaborative Natural Lan-
+PAPER935 Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT An-
+PAPER936 MµSE: Supporting Exploration of Software-Hardware Interactions Through Examples
+PAPER937 Understanding Documentation Use Through Log Analysis: A Case Study of Four Cloud
+PAPER938 A Tool for Capturing Smartphone Screen Text
+PAPER939 ARTiST: Automated Text Simplification for Task Guidance in Augmented Reality
+PAPER940 Exploration of Foot-based Text Entry Techniques for Virtual Reality Environments
+PAPER941 PonDeFlick: A Japanese Text Entry on Smartwatch Commonalizing Flick Operation with
+PAPER942 CRTypist: Simulating Touchscreen Typing Behavior via Computational Rationality
+PAPER943 Sitting Posture Recognition and Feedback: A Literature Review
+PAPER944 WheelPose: Data Synthesis Techniques to Improve Pose Estimation Performance on
+PAPER945 iPose: Interactive Human Pose Reconstruction from Video
+PAPER946 A Browser Extension for in-place Signaling and Assessment of Misinformation
+PAPER947 Profiling the Dynamics of Trust & Distrust in Social Media: A Survey Study
+PAPER948 Trust, Privacy, and Safety Factors Associated with Decision Making in P2P Markets
+PAPER949 Uncovering Human Traits in Determining Real and Spoofed Audio: Insights from Blind
+PAPER950 Understanding Underground Incentivized Review Services
+PAPER951 Fast-Forward Reality: Authoring Error-Free Context-Aware Policies with Real-Time Unit
+PAPER952 Just Undo It: Exploring Undo Mechanics in Multi-User Virtual Reality
+PAPER953 On the Benefits of Image-Schematic Metaphors when Designing Mixed Reality Systems
+PAPER954 Predicting the Noticeability of Dynamic Virtual Elements in Virtual Reality
+PAPER955 Towards Building Condition-Based Cross-Modality Intention-Aware Human-AI Cooper-
+PAPER956 “I Know What You Mean”: Context-Aware Recognition to Enhance Speech-Based Games
+PAPER957 Characterizing and Quantifying Expert Input Behavior in League of Legends
+PAPER958 Screenless Interactive Tabletop Gaming with Capacitive Surface Sensing
+PAPER959 Toxicity in Online Games: The Prevalence and Eﬀicacy of Coping Strategies
+PAPER960 Tunnel Runner: a Proof-of-principle for the Feasibility and Benefits of Facilitating Play-
+PAPER961 A Systematic Review of Ability-diverse Collaboration through Ability-based Lens in HCI
+PAPER962 AXNav: Replaying Accessibility Tests from Natural Language
+PAPER963 AccessLens: Auto-detecting Inaccessibility of Everyday Objects
+PAPER964 Exploring Mobile Device Accessibility: Challenges, Insights, and Recommendations for
+PAPER965 Human I/O: Towards a Unified Approach to Detecting Situational Impairments
+PAPER966 A Design Space for Vision Augmentations and Augmented Human Perception using Dig-
+PAPER967 Empirical Investigation of Accessibility Bug Reports in Mobile Platforms: A Chromium
+PAPER968 RASSAR: Room Accessibility and Safety Scanning in Augmented Reality
+PAPER969 “I never realized sidewalks were a big deal”: A Case Study of a Community-Driven
+PAPER970 A Comparative Long-Term Study of Fallback Authentication Schemes
+PAPER971 A First Look into Targeted Clickbait and its Countermeasures: The Power of Storytelling
+PAPER972 Not as easy as just update: Survey of System Administrators and Patching Behaviours
+PAPER973 Self-Eﬀicacy and Security Behavior: Results from a Systematic Review of Research Meth-
+PAPER974 Understanding User-Perceived Security Risks and Mitigation Strategies in the Web3
+PAPER975 DirectGPT: A Direct Manipulation Interface to Interact with Large Language Models
+PAPER976 Farsight: Fostering Responsible AI Awareness During AI Application Prototyping
+PAPER977 From Text to Self: Users’Perception of AIMC Tools on Interpersonal Communication
+PAPER978 The Effects of Perceived AI Use On Content Perceptions
+PAPER979 “As an AI language model, I cannot”: Investigating LLM Denials of User Requests
+PAPER980 “I know what you did last semester”: Understanding Privacy Expectations and Prefer-
+PAPER981 Do You Need to Touch? Exploring Correlations between Personal Attributes and Pref-
+PAPER982 Personalizing Privacy Protection With Individuals’ Regulatory Focus: Would You Pre-
+PAPER983 Towards Understanding Family Privacy and Security Literacy Conversations at Home:
+PAPER984 “It doesn’t tell me anything about how my data is used”: User Perceptions of Data
+PAPER985 DynaVis: Dynamically Synthesized UI Widgets for Visualization Editing
+PAPER986 Erie: A Declarative Grammar for Data Sonification
+PAPER987 Glanceable Data Visualizations for Older Adults: Establishing Thresholds and Examining
+PAPER988 Graph4GUI: Graph Neural Networks for Representing Graphical User Interfaces
+PAPER989 “It is hard to remove from my eye”: Design Makeup Residue Visualization System for
+PAPER990 Beyond Static Labels: Unpacking Nutrition Comprehension in the Digital Age
+PAPER991 FoodCensor: Promoting Mindful Digital Food Content Consumption for People with
+PAPER992 Integrating Expertise in LLMs: Crafting a Customized Nutrition Assistant with Refined
+PAPER993 Investigating Contextual Notifications to Drive Self-Monitoring in mHealth Apps for
+PAPER994 Predicting early user churn in a public digital weight loss intervention
+PAPER995 “Waves Push Me to Slumberland”: Reducing Pre-Sleep Stress through Spatio-Temporal
+PAPER996 MoodCapture: Depression Detection using In-the-Wild Smartphone Images
+PAPER997 On Stress: Combining Human Factors and Biosignals to Inform the Placement and De-
+PAPER998 Reading Between the Lines: Identifying the Linguistic Markers of Anhedonia for the
+PAPER999 “I’m gonna KMS”: From Imminent Risk to Youth Joking about Suicide and Self-Harm
+PAPER1000 DeepStress: Supporting Stressful Context Sensemaking in Personal Informatics Systems
+PAPER1001 EmoEden: Applying Generative Artificial Intelligence to Emotional Learning for Chil-
+PAPER1002 Maintaining Continuing Bonds in Bereavement: A Participatory Design Process of Be.side
+PAPER1003 “This app said I had severe depression, and now I don’t know what to do”: the unin-
+PAPER1004 Exploring an Extended Reality Floatation Tank Experience to Reduce the Fear of Being
+PAPER1005 S-ADL: Exploring Smartphone-based Activities of Daily Living to Detect Blood Alcohol
+PAPER1006 The Role of AI in Peer Support for Young People: A Study of Preferences for Human-
+PAPER1007 The Social Journal: Investigating Technology to Support and Reflect on Social Interac-
+PAPER1008 “If Someone Walks In On Us Talking, Pretend to be My Friend, Not My Therapist”:
+PAPER1009 An Iterative Participatory Design Approach to Develop Collaborative Augmented Real-
+PAPER1010 Dancing with the Roles: Towards Designing Technology that Supports the Multifaceted
+PAPER1011 Designing for Inclusive Experiences: Investigating Opportunities for Supporting Older
+PAPER1012 Exploring the Design of Generative AI in Supporting Music-based Reminiscence for Older
+PAPER1013 Understanding Socio-technical Opportunities for Enhancing Communication Between
+PAPER1014 Deconstructing the Veneer of Simplicity: Co-Designing Introductory Generative AI Work-
+PAPER1015 How Do Data Analysts Respond to AI Assistance? A Wizard-of-Oz Study
+PAPER1016 The Role of Inclusion, Control, and Ownership in Workplace AI-Mediated Communica-
+PAPER1017 “There is a Job Prepared for Me Here”: Understanding How Short Video and Live-
+PAPER1018 “If the Machine Is As Good As Me, Then What Use Am I?” –How the Use of ChatGPT
+PAPER1019 Analysis and Implementation of Nanotargeting on LinkedIn Based on Publicly Available
+PAPER1020 ChunkyEdit: Text-first video interview editing via chunking
+PAPER1021 Lessons From Working in the Metaverse: Challenges, Choices, and Implications from a
+PAPER1022 The Hidden Toll of Instant Messaging Use in Remote Work: Interaction Dynamics Be-
+PAPER1023 Circle Back Next Week: The Effect of Meeting-Free Weeks on Distributed Workers’Un-
+PAPER1024 Exploring the Diminishing Allure of Paper and Low-Fidelity Prototyping Among Design-
+PAPER1025 Mental Models of Meeting Goals: Supporting Intentionality in Meeting Technologies
+PAPER1026 Reinforcing and Reclaiming The Home: Co-speculating Future Technologies to Support
+PAPER1027 The Impact of Social Norms on Hybrid Workers’Well-Being: A Cross-Cultural Compar-
+PAPER1028 DISCERN: Designing Decision Support Interfaces to Investigate the Complexities of
+PAPER1029 Exploring the Effectiveness of Time-lapse Screen Recording for Self-Reflection in Work
+PAPER1030 Practice-informed Patterns for Organising Large Groups in Distributed Mixed Reality
+PAPER1031 The Effects of Update Interval and Reveal Method on Writer Comfort in Synchronized
+PAPER1032 Whispering Through Walls: Towards Inclusive Backchannel Communication in Hybrid
+PAPER1033 Generative Echo Chamber? Effect of LLM-Powered Search Systems on Diverse Informa-
+PAPER1034 Odds and Insights: Decision Quality in Exploratory Data Analysis Under Uncertainty
+PAPER1035 SwapVid: Integrating Video Viewing and Document Exploration with Direct Manipula-
+PAPER1036 Using Open Data to Automatically Generate Localized Analogies
+PAPER1037 rTisane: Externalizing conceptual models for data analysis prompts reconsideration of
+PAPER1038 Automatic Macro Mining from Interaction Traces at Scale
+PAPER1039 Bridging the Gulf of Envisioning: Cognitive Challenges in Prompt Based Interactions
+PAPER1040 If in a Crowdsourced Data Annotation Pipeline, a GPT-4
+PAPER1041 SEAM-EZ: Simplifying Stateful Analytics through Visual Programming
+PAPER1042 ABScribe: Rapid Exploration & Organization of Multiple Writing Variations in Human-
+PAPER1043 Rambler: Supporting Writing With Speech via LLM-Assisted Gist Manipulation
+PAPER1044 Shaping Human-AI Collaboration: Varied Scaffolding Levels in Co-writing with Language
+PAPER1045 The HaLLMark Effect: Supporting Provenance and Transparent Use of Large Language
+PAPER1046 DiaryMate: Understanding User Perceptions and Experience in Human-AI Collaboration
+PAPER1047 Intelligent Support Engages Writers Through Relevant Cognitive Processes
+PAPER1048 The Value, Benefits, and Concerns of Generative AI-Powered Assistance in Writing
+PAPER1049 Writer-Defined AI Personas for On-Demand Feedback Generation
+PAPER1050 AI-Augmented Brainwriting: Investigating the use of LLMs in group ideation
+PAPER1051 CharacterMeet: Supporting Creative Writers’ Entire Story Character Construction Pro-
+PAPER1052 LegalWriter: An Intelligent Writing Support System for Structured and Persuasive Legal
+PAPER1053 PANDALens: Towards AI-Assisted In-Context Writing on OHMD During Travels
+PAPER1054 A Design Space for Intelligent and Interactive Writing Assistants
+PAPER1055 CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with
+PAPER1056 Neural Canvas: Supporting Scenic Design Prototyping by Integrating 3D Sketching and
+PAPER1057 The Impact of Sketch-guided vs. Prompt-guided 3D Generative AIs on the Design Ex-

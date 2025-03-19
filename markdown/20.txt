@@ -1,0 +1,760 @@
+Paper 1: Introducing Peripheral Awareness as a Neurological Statefor Human-computer Integration
+Paper 2: Venous Materials: Towards Interactive Fluidic Mechanisms
+Paper 3: Considering Parents in Coding Kit Design: Understanding Parents’Perspectives and Roles
+Paper 4: If I Hear You Correctly: Building and Evaluating Interview Chatbotswith Active Listening Skills
+Paper 5: BlyncSync: Enabling Multimodal Smartwatch Gestures with SynchronousTouch and Blink
+Paper 6: Making Space for Social Sharing: Insights from a Community-Based SocialGroup for People with Dementia
+Paper 7: Phasking on Paper : Accessing a Continuum of PHysically AssistedSKetchING
+Paper 8: Peer-to-Peer Energy Markets: Understanding the Values of Collectiveand Community Trading
+Paper 9: AirTouch: 3D-printed Touch-Sensitive Objects Using Pneumatic Sensing
+Paper 10: Digital Liminalities: Understanding Isolated Communities on the Edge
+Paper 11: Mouillé: Exploring Wetness Illusion on Fingertips to Enhance ImmersiveExperience in VR
+Paper 12: Replicate and Reuse: Tangible Interaction Design for Digitally-AugmentedPhysical Media Objects
+Paper 13: FDHelper: Assist Unsupervised Fraud Detection Experts with InteractiveFeature Selection and Evaluation
+Paper 14: Understanding Walking Meetings: Drivers and Barriers
+Paper 15: Listen to Developers! A Participatory Design Study on SecurityWarnings for Cryptographic APIs
+Paper 16: ReCog: Supporting Blind People in Recognizing Personal Objects
+Paper 17: Breaking The Experience: Effects of Questionnaires in VR User Studies
+Paper 18: “Hey Model!” – Natural User Interactions and Agency in AccessibleInteractive 3D Models
+Paper 19: Meta-AR-App: An Authoring Platform for Collaborative AugmentedReality in STEM Classrooms
+Paper 20: PenSight: Enhanced Interaction with a Pen-Top Camera
+Paper 21: From Data to Insights: A Layered Storytelling Approach for MultimodalLearning Analytics
+Paper 22: Computing Students’ Learning Difficulties in HCI Education
+Paper 23: Evaluating ‘Prefer not to say’ Around Sensitive Disclosures
+Paper 24: Proximate Social Factors in First-Time Contribution to Online Communities
+Paper 25: Data-driven Multi-level Segmentation of Image Editing Logs
+Paper 26: Data Everyday: Data Literacy Practices in a Division I CollegeSports Context
+Paper 27: TalkingBoogie: Collaborative Mobile AAC System for Non-verbal Childrenwith Developmental Disabilities and Their Caregivers
+Paper 28: texSketch: Active Diagramming through Pen-and-Ink Annotations
+Paper 29: “Out of Luck”: Socio-Economic Differences in Student Coping Responsesto Technology Problems
+Paper 30: Exploring Auditory Information to Change Users’ Perceptionof Time Passing as Shorter
+Paper 31: Place-Based Policymaking and HCI: Opportunities and Challenges for Technology Design 
+Paper 32: Designing Clinical AAC Tablet Applications with Adults who have MildIntellectual Disabilities
+Paper 33: Pronto: Rapid Augmented Reality Video Prototyping Using Sketchesand Enaction
+Paper 34: Student Engagement in Sensitive Design Contexts:A Case Study in Dementia Care
+Paper 35: Social Acceptability in HCI: A Survey of Methods, Measures,and Design Strategies
+Paper 36: Does Smartphone Use Drive our Emotions or vice versa? A Causal Analysis
+Paper 37: EAST: Early Autism Screening Tool for PreschoolersMuhammad Bilal Arshad, Muhammad Farhan Sarwar, Meher Fatima Zaidi, Suleman Shahid
+Paper 38: Why Johnny Can’t Unsubscribe: Barriers to Stopping Unwanted Email
+Paper 39: Making Chat at Home in the Hospital: Exploring Chat Use by Nurses
+Paper 40: The Politics of Privacy Theories: Moving from Norms to Vulnerabilities
+Paper 41: What is this URL’s Destination? Empirical Evaluation of Users’ URL Reading
+Paper 42: “Arseing around was Fun!” – Humor as a Resource in Design and Making
+Paper 43: Understanding the Care Ecologies of Veterans with PTSD
+Paper 44: Self-Expression by Design: Co-Designing the ExpressiBallwith Minimally-Verbal Children on the Autism Spectrum
+Paper 45: DataQuilt: Extracting Visual Elements from Images to Craft PictorialVisualizations
+Paper 46: EYEditor: Towards On-the-Go Heads-Up Text Editing UsingVoice and Manual Input
+Paper 47: “No powers, man!”: A Student Perspective on Designing University SmartBuilding Interactions
+Paper 48: “I Hear You I Feel You”: Encouraging Deep Self-disclosure through a Chatbot
+Paper 49: CARoma Therapy: Pleasant Scents Promote Safer Driving, Better Mood,and Improved Well-Being in Angry Drivers
+Paper 50: Understanding and Visualizing Data Iteration in Machine Learning
+Paper 51: Is This An Ad?: Automatically Disclosing Online Endorsements On YouTubeWith AdIntuition
+Paper 52: Unplatformed Design: A Model for Appropriating Social Media Technologiesfor Coordinated Participation
+Paper 53: DoughNets: Visualising Networks Using Torus Wrapping
+Paper 54: Addressing Cognitive and Emotional Barriers in Parent-ClinicianCommunication through Behavioral Visualization Webtools
+Paper 55: “On Finsta I can say ‘Hail Satan’”: Being Authentic but Disagreeableon Instagram
+Paper 56: Inhaling and Exhaling: How Technologies Can Perceptually Extendour Breath Awareness
+Paper 57: Reading with the Tongue: Individual Differences Affect the Perception of Ambiguous Stimuli with the BrainPort 
+Paper 58: Bottom-Up Organizing with Tools from On High:Understanding the Data Practices of Labor Organizers
+Paper 59: Move Your Body: Engaging Museum Visitors with Human-DataInteraction
+Paper 60: Experiential Qualities of Whispering with Voice Assistants
+Paper 61: Tricks and Treats: Designing Technology to Support MobilityAssistance Dogs
+Paper 62: 3D-Auth: Two-Factor Authentication with Personalized 3D-Printed Items
+Paper 63: HapBead: On-Skin Microfluidic Haptic Interface using Tunable BeadTeng Han (Institute of Software, Chinese Academy of Sciences
+Paper 64: See No Evil, Hear No Evil, Speak No Evil: How Collegiate Players Define,Experience and Cope with Toxicity
+Paper 65: Live Sketchnoting Across Platforms: Exploring the Potential and Limitationsof Analogue and Digital Tools
+Paper 66: Power Play: How the Need to Empower or Overpower Other Players PredictsPreferences in League of Legends
+Paper 67: Dynamics of Aimed Mid-air Movements
+Paper 68: Therminator: Understanding the Interdependency of Visual and On-Body Thermal Feedback in Virtual Reality 
+Paper 69: Multimodal Gaze Interaction for Creative Design
+Paper 70: The Effects of Explicit Intention Communication, Conspicuous Sensors,and Pedestrian Attitude in Interactions with Automated Vehicles
+Paper 71: WATouCH: Enabling Direct Input on Non-touchscreen Using Smartwatch’sPhotoplethysmogram and IMU Sensor Fusion
+Paper 72: Watch+Strap: Extending Smartwatches with Interactive StrapDisplays
+Paper 73: High Tempo Work: Design Challenges for Head-worn Displays in QuickService Restaurants
+Paper 74: User’s Role in Platform Infrastructuralization: WeChat as an Exemplar
+Paper 75: G-ID: Identifying 3D Prints Using Slicing ParametersMustafa Doga Dogan, Faraz Faruqi, Andrew Day Churchill, Kenneth Friedman, Leon Cheng
+Paper 76: Chase Lights in the Peripheral View: How the Design of Moving Patternson an LED Strip Influences the Perception of Speed in an Automotive Context
+Paper 77: Morphic: Auto-Personalization on a Global ScaleGregg Vanderheiden, Jonathan Lazar, J. Bern Jordan, Yao Ding, Rachel E. Wood
+Paper 78: Clinical Documentation as End-User ProgrammingAdam Rule, Isaac H. Goldstein, Michael F. Chiang, Michelle R. Hribar
+Paper 79: Meeting Designers Where They Are: Using Industry Events as a ResearchVenue for HCI and Design Methods Development
+Paper 80: 2Across: A Comparison of Audio-Tactile and Screen-Reader basedRepresentations of a Crossword Puzzle
+Paper 81: Utilizing Participant Voice in Volunteer Training
+Paper 82: A Conversation Analysis of Non-Progress and Coping Strategieswith a Banking Task-Oriented Chatbot
+Paper 83: Developing a Personality Model for Speech-based Conversational AgentsUsing the Psycholexical Approach
+Paper 84: Introducing the Gamer Information-Control Framework:Enabling Access to Digital Games for People with Visual Impairment
+Paper 85: MirrorPad: Mirror on Touchpad for Direct Pen Interaction in the LaptopEnvironment
+Paper 86: Effects of Credibility Indicators on Social Media News Sharing Intent
+Paper 87: Too Much Information: Questioning Security in a Post-Digital Society
+Paper 88: PIP Kit: An Exploratory Investigation into using Lifelogging to supportDisability Benefit Claimants
+Paper 89: Officers Never Type: Examining the Persistence of Paper in e-Governance
+Paper 90: Swap: A Replacement-based Text Revision Technique for Mobile Devices
+Paper 91: ArguLens: Anatomy of Community Opinions On Usability Issues UsingArgumentation Models
+Paper 92: Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning 
+Paper 93: Rapid Iron-On User Interfaces: Hands-on Fabricationof Interactive Textile Prototypes
+Paper 94: A Palette of Deepened Emotions: Exploring Emotional Challenge in VirtualReality Games
+Paper 95: Truncating the Y-Axis: Threat or Menace?
+Paper 96: Bot or not? User Perceptions of Player Substitutionwith Deep Player Behavior Models
+Paper 97: Decoding Intent With Control Theory: Comparing Muscle Versus ManualInterface Performance
+Paper 98: “All in the Same Boat”: Tradeoffs of Voice Assistant Ownershipfor Mixed-Visual-Ability Families
+Paper 99: An Interaction Design for Machine Teaching to Develop AI Tutors
+Paper 100: Unfabricate: Designing Smart Textiles for Disassembly
+Paper 101: Bridging the Virtual and Real Worlds: A Preliminary Study of MessagingNotifications in Virtual Reality
+Paper 102: A Human-Centered Review of Algorithms used within the U.S.Child Welfare System
+Paper 103: MicroMentor: Peer-to-Peer Software Help Sessions in Three Minutes or Less
+Paper 104: In Search of Forms for Evocative and Generative Reflection: ExploratoryStudies and a Design Proposal
+Paper 105: Will the Crowd Game the Algorithm? Using Layperson Judgments to CombatMisinformation on Social Media by Downranking Distrusted Sources
+Paper 106: BISHARE: Exploring Bidirectional Interactions Between Smartphonesand Head-Mounted Augmented Reality
+Paper 107: MagTouch: Robust Finger Identification for a Smartwatch Using a MagnetRing and a Built-in Magnetometer
+Paper 108: Teddy: A System for Interactive Review Analysis
+Paper 109: E-Textile Microinteractions: Augmenting Twist with Flick, Slide and GraspGestures for Soft Electronics
+Paper 110: Evaluating the Effect of Timeline Shape on Visualization Task PerformanceSara Di Bartolomeo, Aditeya Pandey, Aristotelis Leventidis, David Saffo, Uzma Haque Syeda,
+Paper 111: OralCam: Enabling Self-Examination and Awareness of Oral HealthUsing a Smartphone Camera
+Paper 112: Investigating the Opportunities for Technologies to Enhance QoLwith Stroke Survivors and their Families
+Paper 113: User Experiences with Online Status Indicators
+Paper 114: Opportunities for Enhancing Access and Efficacy of Peer Sponsorship inSubstance Use Disorder Recovery
+Paper 115: Next Steps for Human-Computer Integration
+Paper 116: JumpVR: Jump-Based Locomotion Augmentation for Virtual Reality
+Paper 117: AutoGain: Gain Function Adaptation with Submovement EfficiencyOptimization
+Paper 118: When the Civic Turn turns Digital: Designing Safe and Secure RefugeeResettlement
+Paper 119: Sociality and Skill Sharing in the Garden
+Paper 120: Keep Calm and Ride Along: Passenger Comfort and Anxiety as PhysiologicalResponses to Autonomous Driving Styles
+Paper 121: Autocomplete Element Fields
+Paper 122: Sprayable User Interfaces: Prototyping Large-Scale Interactive Surfaceswith Sensors and Displays
+Paper 123: Understanding Users’ Perception Towards Automated Personality Detectionwith Group-specific Behavioral Data
+Paper 124: Re-Shape: A Method to Teach Data Ethics for Data Science EducationBen Rydal Shapiro, Amanda Meng, Cody O’Donnell, Charlotte Lou, Edwin Zhao, Bianca Dankwa
+Paper 125: ARMath: Augmenting Everyday Life with Math LearningSeokbin kang, Ekta Shokeen, Virginia L. Byrne, Leyla Norooz, Elizabeth Bonsignore,
+Paper 126: How Domain Experts Create Conceptual Diagrams and Implicationsfor Tool Design
+Paper 127: The Experience of Guided Online Therapy: A Longitudinal, QualitativeAnalysis of Client Feedback in a Naturalistic RCT
+Paper 128: Smart Home Beyond the Home: A Case for Community-Based Access Control
+Paper 129: Race Yourselves: A Longitudinal Exploration of Self-Competition BetweenPast, Present, and Future Performances in a VR Exergame
+Paper 130: Do I Look Like a Criminal? Examining how Race PresentationImpacts Human Judgement of Recidivism
+Paper 131: It Is Your Turn: Collaborative Ideation With a Co-Creative Robot throughSketch
+Paper 132: MissIt: Using Missed Calls for Free, Extremely Low Bit-Rate Communicationin Developing Regions
+Paper 133: Examining Design Choices of Questionnaires in VR User StudiesDmitry Alexandrovsky, Susanne Putze, Michael Bonfert, Sebastian Höffner, Pitt Michelmann,
+Paper 134: Unmet Needs and Opportunities for Mobile Translation AI
+Paper 135: Button Simulation and Design via FDVV Models
+Paper 136: Exploring Visual Information Flows in Infographics
+Paper 137: Informing the Design of Privacy-Empowering Tools for the Connected Home
+Paper 138: Virtual Reality Games for People Using Wheelchairs
+Paper 139: A View on the Viewer: Gaze-Adaptive Captions for Videos
+Paper 140: Emoji Accessibility for Visually Impaired People
+Paper 141: BodyLights: Open-Ended Augmented Feedback to Support Training Towardsa Correct Exercise Execution
+Paper 142: ShArc: A Geometric Technique for Multi-Bend/Shape Sensing
+Paper 143: Robots for Inclusive Play: Co-designing an Educational Game With VisuallyImpaired and Sighted Children
+Paper 144: Cheat Sheets for Data Visualization Techniques
+Paper 145: Learn with Haptics: Improving Vocabulary Recall with Free-form DigitalAnnotation on Touchscreen Mobiles
+Paper 146: Guess the Data: Data Work to Understand How People Make Senseof and Use Simple Sensor Data from Homes
+Paper 147: Please Call the Specialism: Using WeChat to Support Patient Care in China
+Paper 148: Monsters, Metaphors, and Machine Learning
+Paper 149: Collective Support and Independent Learning with a Voice-Based LiteracyTechnology in Rural Communities
+Paper 150: The TA Framework: Designing Real-time Teaching Augmentation for K-12Classrooms
+Paper 151: “We have been magnified for years - Now you are under the microscope!”:Co-researchers with Learning Disabilities Created an Online Survey to
+Paper 152: Beyond Team Makeup: Diversity in Teams Predicts Valued Outcomes in Computer-Mediated Collaborations 
+Paper 153: Defining Haptic Experience: Foundations for Understanding,Communicating, and Evaluating HX
+Paper 154: MaraVis: Representation and Coordinated Intervention of MedicalEncounters in Urban Marathon
+Paper 155: Emotional Footprints of Email Interruptions
+Paper 156: Nationality and Gender Biases in Multicultural Online LearningEnvironments: The Effects of Anonymity
+Paper 157: Designing for Employee Voice
+Paper 158: Supporting Software Developers’ Focused Work on Window-Based Desktops
+Paper 159: MoveVR: Enabling Multiform Force Feedback in Virtual Reality usingHousehold Cleaning Robot
+Paper 160: Between Scripts and Applications: Computational Mediafor the Frontier of Nanoscience
+Paper 161: Brainsourcing: Crowdsourcing Recognition Tasksvia Collaborative Brain-Computer Interfacing
+Paper 162: Mixed Reality Light Fields for Interactive Remote Assistance
+Paper 163: Expert Discussions Improve Comprehension of Difficult Casesin Medical Image Assessment
+Paper 164: Collaborative Technologies for Children with Special Needs:A Systematic Literature Review
+Paper 165: Miniature Haptics: Experiencing Haptic Feedback through Hand-basedand Embodied Avatars
+Paper 166: Digital Juries: A Civics-Oriented Approach to Platform Governance
+Paper 167: Patriarchy, Maternal Health and Spiritual Healing: Designing Maternal HealthInterventions in Pakistan
+Paper 168: BrailleBlocks: Computational Braille Toys for Collaborative Learning
+Paper 169: Investigating the Necessity of Delay in Marking Menu Invocation
+Paper 170: GoTree: A Grammar of Tree Visualizations
+Paper 171: Measuring Identity Confusion with Uniform Resource LocatorsJoshua Reynolds, Deepak Kumar, Zane Ma, Rohan Subramanian, Meishan Wu
+Paper 172: Understanding Older Adults’ Participation in Design Workshops
+Paper 173: Is Too Much System Caution Counterproductive? Effects of VaryingSensitivity and Automation Levels in Vehicle Collision Avoidance Systems
+Paper 174: Re-examining Whether, Why, and How Human-AI Interaction Is UniquelyDifficult to Design
+Paper 175: Designing IoT Resources to Support Outdoor Play for Children
+Paper 176: Knock on Wood: Combining Redirected Touching and PhysicalProps for Tool-Based Interaction in Virtual Reality
+Paper 177: Wearable Microphone JammingYuxin Chen, Huiying Li, Shan-Yuan Teng, Steven Nagels, Zhijing Li, Pedro Lopes, Ben Y. Zhao,
+Paper 178: Embroidered Resistive Pressure Sensors: A Novel Approach for TextileInterfaces
+Paper 179: BiTipText: Bimanual Eyes-Free Text Entry on a Fingertip Keyboard
+Paper 180: The Critical Catalog: Library Information Systems, Tricksterism,and Social Justice
+Paper 181: “My Library Has Just Been Obliterated”: Producing New Normsof Use Via Software Update
+Paper 182: “Energy is a Finite Resource”: Designing Technology to Support Individuals across Fluctuating Symptoms of Depression 
+Paper 183: An Honest Conversation: Transparently Combining Machine and HumanSpeech Assistance in Public Spaces
+Paper 184: Social Boundaries for Personal Agents in the Interpersonal Spaceof the Home
+Paper 185: A Change of Perspective: How User Orientation Influencesthe Perception of Physicalizations
+Paper 186: Gripmarks: Using Hand Grips to Transform In-Hand Objectsinto Mixed Reality Input
+Paper 187: The Upcycled Home: Removing Barriers to Lightweight Modification of the Home’s Everyday Objects 
+Paper 188: Adhering, Steering, and Queering: Treatment of Gender in Natural LanguageGeneration
+Paper 189: Mental Models of AI Agents in a Cooperative Game Setting
+Paper 190: TAGSwipe: Touch Assisted Gaze Swipe for Text Entry
+Paper 191: Studying the Effects of Cognitive Biases in Evaluation of ConversationalAgents
+Paper 192: Personal Space in Play: Physical and Digital Boundaries in Large-DisplayCooperative and Competitive Games
+Paper 193: “Hi! I am the Crowd Tasker” Crowdsourcing through Digital Voice Assistants
+Paper 194: Dark Patterns after the GDPR: Scraping Consent Pop-ups and Demonstratingtheir Influence
+Paper 195: WithYou: Automated Adaptive Speech Tutoring With Context-DependentSpeech Recognition
+Paper 196: ThermalRing: Gesture and Tag Inputs Enabled by a Thermal Imaging SmartRing
+Paper 197: Predicting and Diagnosing User Engagement with Mobile UI Animationvia a Data-Driven Approach
+Paper 198: Color and Animation Preferences for a Light Band eHMI in InteractionsBetween Automated Vehicles and Pedestrians
+Paper 199: A Participatory Simulation of the Accountable Capitalism Act
+Paper 200: GUIComp: A GUI Design Assistant with Real-Time, Multi-Faceted FeedbackChunggi Lee, Sanghoon Kim, Dongyun Han, Hongjun Yang, Young-Woo Park
+Paper 201: Searching for Mental Health: A Mixed-Methods Study of Young People’sOnline Help-seeking
+Paper 202: Culture in Action: Unpacking Capacities to Inform Assets-Based Design
+Paper 203: MRAT: The Mixed Reality Analytics ToolkitMichael Nebeling, Maximilian Speicher, Xizi Wang, Shwetha Rajaram, Brian D. Hall,
+Paper 204: Investigating the Effects of Self-Avatars and Story-Relevant Avatarson Children’s Creative Storytelling
+Paper 205: Restorative Play: Videogames Improve Player WellbeingAfter a Need-Frustrating Event
+Paper 206: PneuSleeve: In-fabric Multimodal Actuation and Sensingin a Soft, Compact, and Expressive Haptic Sleeve
+Paper 207: Teenage Visitor Experience: Classification of Behavioral Dynamicsin Museums
+Paper 208: Vibrotactile Funneling Illusion and Localization Performance on the HeadOliver Beren Kaul, Michael Rohs, Benjamin Simon, Kerem Can Demir, Kamillo Ferry
+Paper 209: Modeling the Endpoint Uncertainty in Crossing-based Moving TargetSelection
+Paper 210: “I Feel Like This is a Bad Thing”: Investigating Disassemblyin Action for Novices
+Paper 211: “Human All Too Human”: NOAA Weather Radio and the EmotionalImpact of Synthetic Voices
+Paper 212: Privacy and Activism in the Transgender Community
+Paper 213: Improving Humans’ Ability to Interpret Deictic Gestures in Virtual Reality
+Paper 214: Understanding Client Support Strategies to Improve Clinical Outcomesin an Online Mental Health Intervention
+Paper 215: IoT Data in the Home: Observing Entanglements and Drawing NewEncounters
+Paper 216: Interactive Multisensory Environments for Primary School Children
+Paper 217: Parenting with Alexa: Exploring the Introduction of Smart Speakerson Family Dynamics
+Paper 218: Making Design Memoirs: Understanding and Honoring Difficult Experiences
+Paper 219: The Influence of Decaying the Representation of Older Social MediaContent on Simulated Hiring Decisions
+Paper 220: Sensor Illumination: Exploring Design Qualities and Ethical Implicationsof Smart Cameras and Image/Video Analytics
+Paper 221: Dear Pictograph: Investigating the Role of Personalization and Immersion for Consuming and Enjoying Visualizations 
+Paper 222: Explore, Create, Annotate: Designing Digital Drawing Toolswith Visually Impaired People
+Paper 223: A Comparison of Geographical Propagation Visualizations Vanessa Peña-Araya, Anastasia Bezerianos, Emmanuel Pietriga 
+Paper 224: Understanding Women Modders using the Serious Leisure Perspective Nicoletta Tancred, Selen Turkay, Nicole Vickery, Peta Wyeth, Anna McCoombe 
+Paper 225: I am Not an Object: Reframing 3D Body Scanning for Co-Design Svetlana Mironcika, Annika Hupfeld, Joep Frens, Stephan Wensveen 
+Paper 226: Virtual Reality Without Vision: A Haptic and Auditory WhiteCane to Navigate Complex Virtual Worlds
+Paper 227: Clash of Times: Respectful Technology Space for Integrating CommunityStories in Intangible Exhibits
+Paper 228: Transforming Robot Programs Based on Social Context
+Paper 229: Digital Technology, Meditative and Contemplative Practices, andTranscendent Experiences
+Paper 230: The Silent Conversation: Designing for Introspection and Social Playin Art Museums
+Paper 231: PoCoPo: Handheld Pin-based Shape Display for Haptic Renderingin Virtual Reality
+Paper 232: Understanding Parenting Stress through Co-designed Self-Trackers
+Paper 233: Investigating User-Created Gamification in an Image Tagging Task,
+Paper 234: Supporting Stimulation Needs in Dementia Care through Wall-Sized Displays
+Paper 235: Designing Mental Health Technologies that Support the SocialEcosystem of College Students
+Paper 236: Community Collectives: Low-tech Social Support for Digitally-EngagedEntrepreneurship
+Paper 237: Designing Distributed Ledger Technologies for Social Change:The Case of CariCrop
+Paper 238: Du Bois Wrapped Bar Chart: Visualizing Categorical Datawith Disproportionate Values
+Paper 239: PhysioSkin: Rapid Fabrication of Skin-Conformal Physiological Interfaces
+Paper 240: Tactile Presentation of Network Data: Text, Matrix or Diagram?
+Paper 241: PV-Tiles: Towards Closely-Coupled Photovoltaic and Digital Materials for Useful, Beautiful and Sustainable Interactive Surfaces Yogesh Kumar Meena, Krishna Seunarine, Deepak Ranjan Sahoo, Simon Robinson, Jennifer Pearson,
+Paper 242: Celebrating Everyday Success: Improving Engagement and Motivation usinga System for Recording Daily Highlights
+Paper 243: Shaping the Design of Smartphone-Based Interventions for Self-Harm
+Paper 244: Embedding a VR Game Studio in a Sedentary Workplace:Use, Experience and Exercise Benefits
+Paper 245: Embodiment Effects in Interactions with Failing RobotsDimosthenis Kontogiorgos, Sanne van Waveren, Olle Wallberg, Andre Pereira,
+Paper 246: PuffPacket: A Platform for Unobtrusively Tracking the Fine-grainedConsumption Patterns of E-cigarette Users
+Paper 247: WeDA: Designing and Evaluating A Scale-driven Wearable DiagnosticAssessment System for Children with ADHD
+Paper 248: Crowdsourced Detection of Emotionally Manipulative Language Jordan S. Huffaker, Jonathan K. Kummerfeld, Walter S. Lasecki, Mark S. Ackerman 
+Paper 249: Conversational Agency in Augmentative and Alternative Communication Yu,
+Paper 250: Prior Setting in Practice: Strategies and Rationales Used in Choosing PriorDistributions for Bayesian Analysis
+Paper 251: Pac-Euglena: A Living Cellular Pac-Man Meets Virtual Ghosts
+Paper 252: Proxemics Beyond Proximity: Designing for Flexible Social InteractionThrough Cross-Device Interaction
+Paper 253: Decipher: An Interactive Visualization Tool for Interpreting UnstructuredDesign Feedback from Multiple Providers
+Paper 254: Evaluating Multivariate Network Visualization TechniquesUsing a Validated Design and Crowdsourcing Approach
+Paper 255: Enabling Data-Driven API Design with Community Usage Data:A Need-Finding Study
+Paper 256: Synthesized Social Signals: Computationally-Derived SocialSignals from Account Histories
+
+Paper 258: Evaluating the Information Security Awareness of Smartphone Users
+Paper 259: Choice-Point: Fostering Awareness and Choice with Perpetrators in DomesticViolence Interventions
+Paper 260: Sensock: 3D Foot Reconstruction with Flexible SensorsHechuan Zhang, Zhiyong Chen, Shihui Guo, Juncong Lin, Yating Shi ,
+Paper 261: Tabloidization versus Credibility: Short Term Gain for Long Term Pain
+Paper 262: Informing the Design of a Personalized Privacy Assistantfor the Internet of Things
+Paper 263: Snapstream: Snapshot-based Interaction in Live Streamingfor Visual Art
+Paper 264: Preparing for the Unexpected: Community Framework for Social Media Useand Social Support by Trail Thru-Hikers
+Paper 265: Critical Race Theory for HCI
+Paper 266: Exploring Eyes-free Bezel-initiated Swipe on Round Smartwatches
+Paper 267: The Low/High Index of Pupillary Activity
+Paper 268: Capturing Experts’ Mental Models to Organize a Collectionof Haptic Devices: Affordances Outweigh Attributes
+Paper 269: Supporting Self-Injury Recovery: The Potential for Virtual Reality InterventionKaylee Payne Kruzan, Janis Whitlock, Natalya N. Bazarova, Katherine D. Miller, Julia Chapman,
+Paper 270: Learning from Positive Adaptations of Pediatric Cancer Patientsto Design Health Technologies
+Paper 271: Pedestrian Detection with Wearable Cameras for the Blind:A Two-way Perspective
+Paper 272: Urban Mosaic: Visual Exploration of Streetscapes Using Large-Scale ImageData
+Paper 273: Let’s Talk about Sext: How Adolescents Seek Support and Adviceabout Their Online Sexual Experiences
+Paper 274: See, Feel, Move — Player Behaviour Analysis through Combined Visualizationof Gaze, Emotions, and Movement
+Paper 275: Exploring Human-Robot Interaction with the Elderly: Results from a Ten-WeekCase Study in a Care Home
+Paper 276: Improving Worker Engagement Through Conversational MicrotaskCrowdsourcing
+Paper 277: “Person, Shoes, Tree. Is the Person Naked?” What People with VisionImpairments Want in Image Descriptions
+Paper 278: Utilizing VR and Gaze Tracking to Develop AR Solutions for IndustrialMaintenance
+Paper 279: Evaluating Smartwatch-based Sound Feedback for Deaf and Hard-of-hearingUsers Across Contexts
+Paper 280: Play-Based Design: Giving 3- to 4-Year-Old Children a Voicein the Design Process
+Paper 281: ElastOscillation: 3D Multilevel Force Feedback for Damped Oscillationon VR Controllers
+Paper 282: Levitation Simulator: Prototyping Ultrasonic Levitation Interfaces in VirtualReality
+Paper 283: Crafting Personal Information – Resistance, Imperfection, and Self-Creationin Bullet Journaling
+Paper 284: Companionship Is Not a Function: The Effect of a Novel Robotic Objecton Healthy Older Adults’ Feelings of “Being-Seen”
+Paper 285: GPkit: A Human-Centered Approach to Convex Optimization in EngineeringDesign
+Paper 286: Designing Games for Healthy SleepJuliet Pusateri, Judith Leng, Qian Wang, Xiangzhu Chen, Jessica Hammer (Carnegie Mellon
+Paper 287: Learning Through Exploration: How Children, Adults, and Older AdultsInteract with a New Feature-Rich Application
+Paper 288: Taking Data Out of Context to Hyper-Personalize Ads: Crowdworkers’ PrivacyPerceptions and Decisions to Disclose Private Information
+Paper 289: What Are You Talking To?: Understanding Children’s Perceptionsof Conversational Agents
+Paper 290: Moving Toward an Ecologically Valid Data Collection Protocol for 2D GesturesIn Video Games
+Paper 291: Toward Automated Feedback on Teacher Discourse to Enhance TeacherLearning
+Paper 292: Inducing and Mitigating Stereotype Threat Through GenderedVirtual Body-Swap Illusions
+Paper 293: Surfacing Visualization Mirages
+Paper 294: FoodFab: Creating Food Perception Illusions using Food 3D Printing
+Paper 295: Collaborative Writing Across Multiple Artifact Ecologies
+Paper 296: Enemy Within: Long-term Motivation Effects of Deep Player Behavior Models for Dynamic Difficulty Adjustment 
+Paper 297: Random, Messy, Funny, Raw: Finstas as Intimate Reconfigurationsof Social Media
+Paper 298: Jubilee: An Extensible Machine for Multi-tool Fabrication
+Paper 299: Using Diaries to Probe the Illness Experiences of Adolescent Patientsand Parental Caregivers
+Paper 300: Soundr: Head Position and Orientation Prediction Using a Microphone Array Yang, Gaurab Banerjee, Vishesh Gupta, Monica S. Lam,
+Paper 301: Crowdsourcing the Perception of Machine Teaching
+Paper 302: High Water Pants: Designing Embodied Environmental Speculation
+Paper 303: The Designer’s Body as Resource in Design: ExploringCombinations of Point-of-view and Tense
+Paper 304: Molder: An Accessible Design Tool for Tactile Maps
+Paper 305: Approach Matters: Linking Practitioner Approaches to TechnologyDesign for People with Dementia
+Paper 306: Designing and Evaluating ‘In the Same Boat’, A Game of EmbodiedSynchronization for Enhancing Social Play
+Paper 307: Camera Adversaria
+Paper 308: How Well Do People Report Time Spent on Facebook? An Evaluation of Established Survey Questions with Recommendations 
+Paper 309: Augmenting Static Visualizations with PapARVis DesignerChen Zhu-Tian, Wai Tong, Qianwen Wang (Hong Kong University of Science and
+Paper 310: Temporal Segmentation of Creative Live Streams
+Paper 311: Outline Pursuits: Gaze-assisted Selection of Occluded Objectsin Virtual Reality
+Paper 312: Engaging the Commons in Participatory Sensing: Practice,Problems, and Promise in the Context of Dockless Bikesharing
+Paper 313: Evaluating the End-User Experience of Private Browsing Mode
+Paper 314: PalmBoard: Leveraging Implicit Touch Pressure in StatisticalDecoding for Indirect Text Entry
+Paper 315: Wrex: A Unified Programming-by-Example Interaction for SynthesizingReadable Code for Data Scientists
+Paper 316: Automatic Annotation Synchronizing with Textual Descriptionfor Visualization
+Paper 317: Assessing Severity of Pulmonary Obstruction from Respiration Phase-Based Wheeze-Sensing Using Mobile Sensors 
+Paper 318: Co-Designing Checklists to Understand Organizational Challengesand Opportunities around Fairness in AI
+Paper 319: Recognizing Affiliation: Using Behavioural Traces to Predict the Quality of Social Interactions in Online Games 
+Paper 320: Silva: Interactively Assessing Machine Learning Fairness Using Causality
+Paper 321: Transparency of CHI Research Artifacts: Results of a Self-Reported Survey
+Paper 322: Quantification of Users’ Visual Attention During Everyday MobileDevice Interactions
+Paper 323: Investigating User Expectations on the Roles of Family-shared AI Speakers
+Paper 324: Tempura: Query Analysis with Structural Templates
+Paper 325: C-Space: An Interactive Prototyping Platform for CollaborativeSpatial Design Exploration
+Paper 326: Metaprobes, Metaphysical Workshops and Sketchy Philosophy
+Paper 327: How Visualizing Inferential Uncertainty Can Mislead ReadersAbout Treatment Effects in Scientific Results
+Paper 328: Integrated Development Environment with Interactive ScatterPlot for Examining Statistical Modeling
+Paper 329: Many Faced Hate: A Cross Platform Study of Content Framingand Information Sharing by Online Hate Groups
+Paper 330: How Mandatory Second Factor Affects the Authentication User Experience
+Paper 331: Supporting the Supporters of Unaccompanied Migrant Youth:Designing for Social-ecological Resilience
+Paper 332: Dimensions of UX Practice that Shape Ethical AwarenessShruthi Sai Chivukula, Chris Rhys Watkins, Rhea Manocha, Jingle Chen,
+Paper 333: Storytelling to Sensemaking: A Systematic Framework for DesigningAuditory Description Display for Interactives
+Paper 334: Empathy Is All You Need: How a Conversational Agent ShouldRespond to Verbal Abuse
+Paper 335: Brooke Leave Home: Designing a Personalized Film to SupportPublic Engagement with Open Data
+Paper 336: Automation and Creativity: A Case Study of DJs’ and VJs’ AmbivalentPositions on Automated Visual Software
+Paper 337: From Creating Spaces for Civic Discourse to Creating Resourcesfor Action
+Paper 338: “Like Shock Absorbers”: Understanding the Human Infrastructuresof Technology-Mediated Mental Health Support
+Paper 339: A Probabilistic Grammar of Graphics
+Paper 340: Answering Questions about Charts and Generating VisualExplanations
+Paper 341: Adults’ and Children’s Mental Models for Gestural Interactionswith Interactive Spherical Displays
+Paper 342: Towards Value-Adaptive Instruction: A Data-Driven Method for Addressing Bias in Argument Evaluation Tasks 
+Paper 343: Wireality: Enabling Complex Tangible Geometries in Virtual Realitywith Worn Multi-String Haptics
+Paper 344: Touching and Being in Touch with the Menstruating BodyNadia Campo Woytuk, Marie Louise Juul Søndergaard, Marianela Ciolfi Felice,
+Paper 345: Towards Inclusive External Communication of Autonomous Vehicles for Pedestrians with Vision Impairments 
+Paper 346: Crowdsourcing in China: Exploring the Work Experiences of Solo Crowdworkers and Crowdfarm Workers 
+Paper 347: Co-designing Digital Tools to Enhance Speech and Language TherapyTraining in Ghana
+Paper 348: Toward Future-Centric Personal Informatics: Expecting Stressful Eventsand Preparing Personalized Interventions in Stress Management
+Paper 349: Haptic-go-round: A Surrounding Platform for Encounter-type Hapticsin Virtual Reality Experiences
+Paper 350: Weaving by Touch: A Case Analysis of Accessible Making
+Paper 351: Designing Ambient Narrative-Based Interfaces to Reflect and MotivatePhysical Activity
+Paper 352: Enhancing Mobile Voice Assistants with WorldGaze
+Paper 353: Toward the Design of Enjoyable Games for Children with Fetal AlcoholSpectrum Disorder
+Paper 354: FaceHaptics: Robot Arm based Versatile Facial Haptics for ImmersiveEnvironments
+Paper 355: Social Comparison and Facebook: Feedback, Positivity,and Opportunities for Comparison
+Paper 356: KeyMap: Improving Keyboard Shortcut Vocabulary Using Norman’s Mapping
+Paper 357: A Longitudinal Video Study on Communicating Statusand Intent for Self-Driving Vehicle – Pedestrian Interaction
+Paper 358: Debugging Database Queries: A Survey of Tools, Techniques, and Users
+Paper 359: FamilyStories: Asynchronous Audio Storytelling for Family MembersAcross Time Zones
+Paper 360: WITHDRAWN -- Perceived Speed, Frustration and Enjoyment of Interactiveand Passive Loading Scenarios in Virtual Reality
+Paper 361: Detecting Gender Stereotypes: Lexicon vs. Supervised Learning Methods
+Paper 362: Head-Coupled Kinematic Template Matching:A Prediction Model for Ray Pointing in VR
+Paper 363: CreaTable Content and Tangible Interaction in Aphasia
+Paper 364: Touch me Gently: Recreating the Perception of Touchusing a Shape-Memory Alloy Matrix
+Paper 365: Designing for Social Interaction in the Age of Excessive Smartphone Use
+Paper 366: Giving Voice to Silent Data: Designing with Personal Music Listening History
+Paper 367: Projection Boxes: On-the-fly Reconfigurable Visualization for LiveProgramming
+Paper 368: When Design Novices and LEGO® Meet: Stimulating CreativeThinking for Interface Design
+Paper 369: Framing Effects Influence Interface Feature Decisions
+Paper 370: “‘More gay’ fits in better”: Intracommunity Power Dynamics and Harmsin Online LGBTQ+ Spaces
+Paper 371: Towards A Taxonomy of Content Sensitivity and Sharing Preferencesfor Photos
+Paper 372: E-scooters on the Ground: Lessons for Redesigning Urban Micro-Mobility
+Paper 373: GridAlert: Using a Sensor-Based Technology to Monitor PowerBlackouts in Kenyan Homes
+Paper 374: Exploring the Design Space of User-System Communicationfor Smart-home Routine Assistants
+Paper 375: A Literature Review of Quantitative Persona CreationJoni Salminen (Qatar Computing Research Institute, Hamad Bin Khalifa University
+Paper 376: Digital Ventriloquism: Giving Voice to Everyday Objects
+Paper 377: Affective State Prediction Based on Semi-SupervisedLearning from Smartphone Touch Data
+Paper 378: Glissade: Generating Balance Shifting Feedback to FacilitateAuxiliary Digital Pen Input
+Paper 379: Ambiguity-aware AI Assistants for Medical Data Analysis
+Paper 380: Becoming a Robot – Overcoming Anthropomorphism with Techno-Mimesis
+Paper 381: Understanding what you feel: A Mobile Audio-Tactile System for GraphicsUsed at Schools with Students with Visual Impairment
+Paper 382: Digital-Enabled Last Mile: A Study of Passenger Tripsin Rural, Low-density Populated Areas
+Paper 383: Integrating the Digital and the Traditional to Deliver Therapy for Depression: Lessons from a Pragmatic Study 
+Paper 384: “It’s a scavenger hunt”: Usability of Websites’ Opt-Out and Data DeletionChoices
+Paper 385: Chasm: A Screw Based Expressive Compact Haptic Actuator
+Paper 386: TangibleCircuits: An Interactive 3D Printed Circuit EducationTool for People with Visual Impairments
+Paper 387: Music Creation by Example
+Paper 388: Infrastructural Speculations: Tactics for Designing and InterrogatingLifeworlds
+Paper 389: The Effectiveness of Visual and Audio Wayfinding Guidanceon Smartglasses for People with Low Vision
+Paper 390: Exploring the Potential of an Intelligent Tutoring Systemfor Sketching Fundamentals
+Paper 391: Reinforcement Learning for the Adaptive Schedulingof Educational Activities
+Paper 392: Generating Audio-Visual Slideshows from Text Articles Using WordConcreteness
+Paper 393: EmoG: Supporting the Sketching of Emotional Expressionsfor Storyboarding
+Paper 394: Awareness, Understanding, and Action: A Conceptual Framework of UserExperiences and Expectations about Indoor Air Quality Visualizations Basics
+
+Paper 396: RoomShift: Room-scale Dynamic Haptics for VR with Furniture-movingSwarm Robots
+Paper 397: Explain like I am a Scientist: The Linguistic Barriers of Entry to r/science
+Paper 398: A Design Engineering Approach for Quantitatively Exploring Context-AwareSentence Retrieval for Nonspeaking Individuals with Motor Disabilities
+Paper 399: Expanding Modes of Reflection in Design Futuring
+Paper 400: Progression Maps: Conceptualizing Narrative Structure for Interaction DesignSupport
+Paper 401: Designers in White Coats: Deploying Ovum, a Fertility Tracking Device
+Paper 402: Amazon vs. My Brother: How Users of Shared Smart SpeakersPerceive and Cope with Privacy Risks
+Paper 403: Opportunities and Challenges in Involving Users in Project-BasedHCI Education
+Paper 404: ReFind: Design, Lived Experience and Ongoingness in Bereavement
+Paper 405: Foundations for Designing Public Interactive Displays that ProvideValue to Users
+Paper 406: Paths Explored, Paths Omitted, Paths Obscured: Decision Points & Selective Reporting in End-to-End Data Analysis 
+Paper 407: Robustness of Eye Movement Biometrics Against VaryingStimuli and Varying Trajectory Length
+Paper 408: Manufacturing Change: The Impact of Virtual Environments on RealOrganizations
+Paper 409: Heartbeats in the Wild: A Field Study Exploring ECG Biometricsin Everyday Life
+Paper 410: Augmented Reality to Enable Users in Learning Case Grammarfrom Their Real-World Interactions
+Paper 411: Retroactive Transfer Phenomena in Alternating User Interfaces
+Paper 412: Designing and Evaluating Calmer, a Device for SimulatingMaternal Skin-to-Skin Holding for Premature Infants
+Paper 413: “It’s in my other hand!” – Studying the Interplay of InteractionTechniques and Multi-Tablet Activities
+Paper 414: CollabAR - Investigating the Mediating Role of Mobile AR Interfaces on Co-Located Group Collaboration 
+Paper 415: Political Hashtags & the Lost Art of Democratic Discourse
+Paper 416: ProtoSpray: Combining 3D Printing and Spraying to Create InteractiveDisplays with Arbitrary Shapes
+Paper 417: GAZED– Gaze-guided Cinematic Editing of Wide-Angle Monocular VideoRecordings
+Paper 418: On Being Iterated: The Affective Demands of Design Participation
+Paper 419: Classification of Functional Attention in Video Meetings
+Paper 420: Collaborative or Simply Uncaged? Understanding Human-Cobot Interactionsin Automation
+Paper 421: Characterizing Twitter Users Who Engage in Adversarial Interactionsagainst Political Candidates
+Paper 422: Private Responses for Public Sharing: Understanding Self-Presentationand Relational Maintenance via Stories in Social Media
+Paper 423: A User Study on Mixed Reality Remote Collaboration with Eye Gazeand Hand Gesture Sharing
+Paper 424: Will Deleting History Make Alexa More Trustworthy? Effects of Privacyand Content Customization on User Experience of Smart Speakers
+Paper 425: MagneLayer: Force Field Fabrication by Layered Magnetic Sheets
+Paper 426: GRIDS: Interactive Layout Design with Integer Programming
+Paper 427: Too Hot to Handle: An Evaluation of the Effect of Thermal VisualRepresentation on User Grasping Interaction in Virtual Reality
+Paper 428: Trust versus Privacy: Using Connected Car Data in Peer-to-PeerCarsharing
+Paper 429: Evaluation of a Financial Portfolio Visualization using ComputerDisplays and Mixed Reality Devices with Domain Experts
+Paper 430: Virtually-Extended Proprioception: Providing Spatial Referencein VR through an Appended Virtual Limb
+Paper 431: Un-authorised View: Leveraging Volunteer Expertise in Heritage
+Paper 432: Chameleon: Bringing Interactivity to Static Digital Documents
+Paper 433: Exploring The Future of Data-Driven Product Design
+Paper 434: Alexa as Coach: Leveraging Smart Speakers to Build SocialAgents that Reduce Public Speaking Anxiety
+Paper 435: Do You Feel Like Passing Through Walls?: Effect of Self-Avatar Appearanceon Facilitating Realistic Behavior in Virtual Environments
+Paper 436: Automatic Text Simplification Tools for Deaf and Hard of Hearing Adults:Benefits of Lexical Simplification and Providing Users with Autonomy
+Paper 437: Whither Humane-Computer Interaction? Adult and Child Value Conflicts in the Biometric Fingerprinting for Food 
+Paper 438: Augmented Reality for Older Adults: Exploring Acceptability of VirtualCoaches for Home-based Balance Training in an Aging Population
+Paper 439: Faces of Focus: A Study on the Facial Cues of Attentional StatesEbrahim Babaei, Namrata Srivastava, Joshua Newn, Qiushi Zhou, Tilman Dingler,
+Paper 440: Why do people watch others eat food? An Empirical Studyon the Motivations and Practices of Mukbang Viewers
+Paper 441: The Care Work of Access
+Paper 442: “Nobody Speaks that Fast!” An Empirical Study of Speech Ratein Conversational Agents for People with Vision Impairments
+Paper 443: Examining the Adoption and Abandonment of Security, Privacy,and Identity Theft Protection Practices
+Paper 444: Introducing Gamettes: A Playful Approach for CapturingDecision-Making for Informing Behavioral Models
+Paper 445: Others’ Images: Online Social Media, Architectural Improvisations,and Spatial Marginalization in Bangladesh Visible: Privacy, Transparency, and Disclosure in the Self-Management of Bipolar Disorder 
+
+Paper 447: Walking by Cycling: A Novel In-Place Locomotion User Interfacefor Seated Virtual Reality Experiences
+Paper 448: Does Context in Privacy Communication Really Matter? – A Surveyon Consumer Concerns and Preferences
+Paper 449: Senorita: A Chorded Keyboard for Sighted, Low Vision,and Blind Mobile Users
+Paper 450: The Role of Everyday Sounds in Advanced Dementia Care
+Paper 451: GazeConduits: Calibration-Free Cross-Device Collaborationthrough Gaze and Touch
+Paper 452: Leveraging Error Correction in Voice-based Text Entry by Talk-and-Gaze
+Paper 453: Considerations for Implementing Technology to SupportCommunity Radio in Rural Communities
+Paper 454: Towards More Universal Wayfinding Technologies: Navigation Preferences Across Disabilities 
+Paper 455: Reflexive VR Storytelling Design Beyond Immersion:Facilitating Self-Reflection on Death and Loneliness
+Paper 456: Awareness, Navigation, and Use of Feed Control Settings Online
+Paper 457: SleepBandits: Guided Flexible Self-Experiments for Sleep Nediyana Daskalova, Jina Yoon, Yibing Wang, Cintia Araujo, 
+Paper 458: I’m All Eyes and Ears: Exploring Effective Locators for PrivacyAwareness in IoT Scenarios
+Paper 459: Is Your Time Well Spent? Reflecting on Knowledge WorkMore Holistically
+Paper 460: Attenuated Access: Accounting for Startup, Maintenance, and Affective Costs in Resource-Constrained Communities 
+Paper 461: A Rapid Tapping Task on Commodity Smartphones to Assess MotorFatigability
+Paper 462: Optimizing User Interface Layouts via Gradient Descent
+Paper 463: Questioning the AI: Informing Design Practices for ExplainableAI User Experiences
+Paper 464: The Emerging Professional Practice of Remote Sighted Assistancefor People with Visual Impairments
+Paper 465: Understanding Viewport- and World-based Pointingwith Everyday Smart Devices in Immersive Augmented Reality
+Paper 466: Scout: Rapid Exploration of Interface Layout Alternativesthrough High-Level Design Constraints
+Paper 467: Prehabilitation: Care Challenges and Technological Opportunities
+Paper 468: “You Don’t Have To Know My Past”: How WeChat Moments Users ManageTheir Evolving Self-Presentation
+Paper 469: Affect Recognition using Psychophysiological Correlates in High IntensityVR Exergaming
+Paper 470: Computational Alternatives Vignettes for Place- and Activity-CenteredDigital Services in Public Libraries
+Paper 471: “And This, Kids, Is How I Met Your Mother”: Consumerist, Mundane, and Uncanny Futures with Sex Robots 
+Paper 472: Neo-Noumena: Augmenting Emotion CommunicationNathan Semertzidis, Michaela Vranic-Peters, Josh Andres, Brahmi Dwivedi, Yutika Chandrashekhar Kulwe
+Paper 473: UI Dark Patterns and Where to Find Them: A Study on Mobile Applicationsand User Perception
+Paper 474: Closer Object Looks Smaller: Investigating the Duality of SizePerception in a Spherical Fish Tank VR Display
+Paper 475: Relationship Between Visual Complexity and Aesthetics of Webpages
+Paper 476: Join.Love: A Sociotechnical Genealogy of the Legalizationof Same-Sex Marriage
+Paper 477: Who Put That There? Temporal Navigation of SpatialRecordings by Direct Manipulation
+Paper 478: “We Hold Each Other Accountable”: Unpacking How Social Groups ApproachCybersecurity and Privacy Together
+Paper 479: “How do I make this thing smile?”: An Inventory of Expressive Nonverbal Communication in Commercial Social Virtual Reality Platforms 
+Paper 480: “You Cannot Offer Such a Suggestion”: Designing for FamilyCaregiver Input in Home Care Systems
+Paper 481: Scenario Co-Creation Cards: A Culturally Sensitive Tool for Eliciting Values
+Paper 482: SolutionChat: Real-time Moderator Support for Chat-based StructuredDiscussion
+Paper 483: ORCSolver: An Efficient Solver for Adaptive GUI Layout with OR-Constraints
+Paper 484: ‘Lime’, ‘Open Lock’, and ‘Blocked’: Children’s Perception of Colors, Symbols,and Words in Cybersecurity Warnings
+Paper 485: The Government’s Dividend: Complex Perceptions of Social MediaMisinformation in China
+Paper 486: Embodied Axes: Tangible, Actuated Interaction for 3D Augmented RealityData Spaces
+Paper 487: ARchitect: Building Interactive Virtual Experiences from Physical Affordancesby Bringing Human-in-the-Loop
+Paper 488: COGAM: Measuring and Moderating Cognitive Load in Machine Learning ModelExplanations
+Paper 489: TandemTrack: Shaping Consistent Exercise Experienceby Complementing a Mobile App with a Smart Speaker
+Paper 490: CurveBoards: Integrating Breadboards into Physical Objectsto Prototype Function in the Context of Form
+Paper 491: ICONATE: Automatic Compound Icon Generation and Ideation
+Paper 492: Body-Penetrating Tactile Phantom Sensations Jinsoo Kim, Seungjae Oh, Chaeyong Park, Seungmoon Choi 
+Paper 493: Sensitizing Scenarios: Sensitizing Designer Teams to Theory
+Paper 494: Digital Fabrication Tools at Work: Probing Professionals’ CurrentNeeds and Desired Futures
+Paper 495: Remotely Shaping the View in Surgical Telementoring
+Paper 496: Collaborative Aspects of Collecting and Reflecting on Behavioral Data
+Paper 497: No Explainability without Accountability: An Empirical Study of Explanationsand Feedback in Interactive ML
+Paper 498: Mirror Ritual: An Affective Interface for Emotional Self-Reflection
+Paper 499: Podoportation: Foot-Based Locomotion in Virtual RealityJulius von Willich, Martin Schmitz, Florian Müller, Daniel Schmitt,
+Paper 500: Relational, Flexible, Everyday: Learning from Ethics in Dementia Research
+Paper 501: VRSketchIn: Exploring the Design Space of Pen and TabletInteraction for 3D Sketching in Virtual Reality
+Paper 502: Conversational Technologies for In-home Learning: UsingCo-Design to Understand Children’s and Parents’ Perspectives
+Paper 503: The Burden of Ending Online Account Sharing
+Paper 504: “We can learn. Why not?”: Designing Technologies to EngenderEquity for Home Health Aides
+Paper 505: Be Water: Technologies in the Leaderless Anti-ELAB Movement in Hong Kong
+Paper 506: Adaptive Photographic Composition Guidance
+Paper 507: Memory through Design: Supporting Cultural Identity for Immigrantsthrough a Paper -Based Home Drafting Tool
+Paper 508: XRDirector: A Role-Based Collaborative Immersive Authoring SystemMichael Nebeling, Katy Lewis, Yu-Cheng Chang, Lihan Zhu, Michelle Chung, Piaoyang Wang,
+Paper 509: A Case for Humans-in-the-Loop: Decisions in the Presence of ErroneousAlgorithmic Scores
+Paper 510: Performance and Experience of Throwing in Virtual Reality
+Paper 511: Engaging with Public Art: An Exploration of the Design Space
+Paper 512: Designing an Eyes-Reduced Document Skimming App for SituationalImpairments
+Paper 513: Again, Together: Socially Reliving Virtual Reality Experiences WhenSeparated
+Paper 514: Physiologically Driven Storytelling: Concept and Software Tool
+Paper 515: What a Driver Wants: User Preferences in Semi-Autonomous VehicleDecision-Making
+Paper 516: Fragile Masculinity: Men, Gender, and Online Harassment
+Paper 517: Nudge for Deliberativeness: How Interface Features Influence Online Discourse
+Paper 518: Crafting, Communality, and Computing: Building on ExistingStrengths To Support a Vulnerable Population
+Paper 519: Social Technology Appropriation in Dementia: Investigating the Roleof Caregivers in Engaging People with Dementia with a Videogame-based
+Paper 520: Isness: Using Multi-Person VR to Design Peak Mystical Type ExperiencesComparable to Psychedelics
+Paper 521: We are the Greatest Showmen: Configuring a Frameworkfor Project-Based Mobile Learning
+Paper 522: Understanding Fitness Tracker Users’ Security and Privacy Knowledge,Attitudes and Behaviours
+Paper 523: “In VR, everything is possible!”: Sketching and Simulating Spatially-AwareInteractive Spaces in Virtual Reality Mobilities and Safe Spaces
+
+Paper 525: The Impact of Displaying Diversity Information on the Formationof Self-assembling Teams
+Paper 526: Kirigami Haptic Swatches: Design Methods for Cut-and-FoldHaptic Feedback Mechanisms
+Paper 527: Fairness and Decision-making in Collaborative Shift SchedulingSystems
+Paper 528: Towards an Understanding of Augmented Reality Extensions for Existing 3DData Analysis Tools
+Paper 529: The Social Network: How People with Visual Impairment use MobilePhones in Kibera, Kenya
+Paper 530: OScH in the Wild: Dissemination of Open Science Hardwareand Implications for HCI
+Paper 531: The Blockchain and the Commons: Dilemmas in the Designof Local Platforms man: Effects of Customization and Identificationin a VR Exergame
+
+Paper 533: Ownership, Privacy, and Control in the Wake of Cambridge Analytica:The Relationship between Attitudes and Awareness
+Paper 534: Ecology Meets Computer Science: Designing Tools to Reconcile People, Data, and Practices Kellie Vella, Jessica L. Oliver, Tshering Dema, Margot Brereton,
+Paper 535: Articulating Experience: Reflections from Experts Applying Micro-Phenomenology to Design Research in HCI 
+Paper 536: Genie in the Bottle: Anthropomorphized Perceptions of ConversationalAgents
+Paper 537: Exploring Nudge Designs to Help Adolescent SNS Users AvoidPrivacy and Safety Threats
+Paper 538: Embodied Learning in Immersive Smart Spaces
+Paper 539: Better Because It’s New: The Impact of Perceived Novelty on the Added Value of Mid-Air Haptic Feedback 
+Paper 540: Designing Trans Technology: Defining Challenges and EnvisioningCommunity-Centered Solutions
+Paper 541: Vipo: Spatial-Visual Programming with Functions for Robot-IoT WorkflowsGaoping Huang, Pawan S. Rao, Meng-Han Wu, Xun Qian, Shimon Y. Nof, Karthik Ramani,
+Paper 542: Exploring the Quality, Efficiency, and Representative Nature of ResponsesAcross Multiple Survey Panels
+Paper 543: “I Just Want to Hack Myself to Not Get Distracted”: Evaluating DesignInterventions for Self-Control on Facebook
+Paper 544: RestoreVR: Generating Embodied Knowledge and Situated Experience of Dunhuang Mural Conservation via Interactive Virtual Reality 
+Paper 545: Towards an AI-powered Future that Works for Vocational Workers
+Paper 546: Assessing 2D and 3D Heatmaps for Comparative Analysis:An Empirical Study
+Paper 547: Stop and Smell the Chalk Flowers: A Robotic Probe for InvestigatingUrban Interaction with Physicalised Displays
+Paper 548: Creativity on Paid Crowdsourcing Platforms
+Paper 549: Ethics in Movement: Shaping and Being Shaped in Human-Drone Interaction
+Paper 550: Robocalling: STIRRED AND SHAKEN! – An Investigation of Calling Displayson Trust and Answer Rates
+Paper 551: The Human in Emotion Recognition on Social Media:Attitudes, Outcomes, Risks
+Paper 552: Fabriccio: Touchless Gestural Input on Interactive Fabrics
+Paper 553: ThermalWear: Exploring Wearable On-chest Thermal Displays to AugmentVoice Messages with Affect
+Paper 554: An Empirical Comparison of Technologically Mediated Advertisingin Under-connected Populations
+Paper 555: From Biodata to Somadata
+Paper 556: Makers in Healthcare: The Role of Occupational Therapistsin the Design of DIY Assistive Technology
+Paper 557: Storywell: Designing for Family Fitness App Motivation by Using SocialRewards and Reflection
+Paper 558: Improving Virtual Reality Ergonomics Through Reach-Bounded Non-LinearInput Amplification
+Paper 559: An Exploratory Study of Augmented Reality Presencefor Tutoring Machine Tasks
+Paper 560: Crafting Critical Heritage Discourses into Interactive Exhibition Design
+Paper 561: Addressing Anonymous Abuses: Measuring the Effectsof Technical Mechanisms on Reported User Behaviors
+Paper 562: ScrAPIr: Making Web Data APIs Accessible to End UsersTarfah Alrashed, Jumana Almahmoud, Amy X. Zhang, David R. Karger
+Paper 563: Design Investigation of Embroidered Interactive Elementson Non-Wearable Textile Interfaces
+Paper 564: Mechanisms of Moral Responsibility: Rethinking Technologies for DomesticViolence Prevention Work
+Paper 565: Towards Participatory Video 2.0
+Paper 566: Exploring the Effects of Technological Writing Assistance for SupportProviders in Online Mental Health Community
+Paper 567: Exploring the Design Space for Parent-Child Reading
+Paper 568: How Points and Theme Affect Performance and Experiencein a Gamified Cognitive Task
+Paper 569: Get a Grip: Evaluating Grip Gestures for VR Input using a Lightweight Pen Nianlong Li, Teng Han, Feng Tian, Jin Huang (Institute of Software, Chinese Academy of Sciences 
+Paper 570: Getting the Healthcare We Want: The Use of Online “Ask the Doctor”Platforms in Practice
+Paper 571: A Skin-Stroke Display on the Eye-Ring Through Head-Mounted Displays
+Paper 572: Predicting Mid-Air Interaction Movements and Fatigue Using DeepReinforcement Learning
+Paper 573: Acoustic Transparency and the Changing Soundscape of AuditoryMixed Reality
+Paper 574: INWARD: A Computer-Supported Tool for Video-Reflection ImprovesEfficiency and Effectiveness in Executive Coaching
+Paper 575: Connecting Distributed Families: Camera Work for Three-partyMobile Video Calls
+Paper 576: Dynamic Motor Skill Synthesis with Human-Machine Mutual ActuationAzumi Maekawa, Seito Matsubar, Sohei Wakisaka, Daisuke Uriu, Atsushi Hiyama,
+Paper 577: Towards Standardized Processes for Physical Therapists to Quantify Patient Rehabilitation
+Paper 578: BrainCoDe: Electroencephalography-based ComprehensionDetection during Reading and Listening
+Paper 579: It Takes a Village: Integrating an Adaptive Chatbotinto an Online Gaming Community
+Paper 580: Red Alert: A Cognitive Countermeasure to Mitigate Attentional Tunneling
+Paper 581: Meaningful Technology at Work – A Reflective Design Case of ImprovingRadiologists’ Wellbeing Through Medical Technology
+Paper 582: How We Type: Eye and Finger Movement Strategies in Mobile Typing
+Paper 583: Evaluation of Machine Learning Techniques for Hand Pose Estimationon Handheld Device with Proximity Sensor
+Paper 584: Designing in the Network of Relations for Species Conservation:The Playful Tingtibi Community Birdhouse
+Paper 585: Touché: Data-Driven Interactive Sword Fighting in Virtual Reality
+Paper 586: Heteroglossia: In-Situ Story Ideation with the Crowd
+Paper 587: Feminist Living Labs as Research Infrastructures for HCI:The Case of a Video Game Company
+Paper 588: Positive Feedback and Self-Reflection: Features to SupportSelf-efficacy among Underrepresented Job Seekers
+Paper 589: A Human-Centered Evaluation of a Deep Learning SystemDeployed in Clinics for the Detection of Diabetic Retinopathy
+Paper 590: A Human Touch: Social Touch Increases the Perceived Human-likeness of Agents in Virtual Reality 
+Paper 591: Augmented Reality Training for Industrial Assembly Work - Are Projection- based AR Assistive Systems an Appropriate Tool for Assembly Training? 
+Paper 592: transTexture Lamp: Understanding Lived Experiences with DeformationThrough a Materiality Lens
+Paper 593: Creating Augmented and Virtual Reality Applications:Current Practices, Challenges, and Opportunities
+Paper 594: Self-Determination Theory in HCI Games Research:Current Uses and Open Questions
+Paper 595: “Transport Me Away”: Fostering Flow in Open Offices through Virtual Reality
+Paper 596: An Intermittent Click Planning Model
+Paper 597: VoiceCoach: Interactive Evidence-based Training for VoiceModulation Skills in Public Speaking
+Paper 598: What is AI Literacy? Competencies and Design Considerations
+Paper 599: Twitter A11y: A Browser Extension to Make Twitter Images Accessible
+Paper 600: What’s Wrong with Computational Notebooks?Pain Points, Needs, and Design Opportunities
+Paper 601: Interacting with Literary Style through Computational Tools
+Paper 602: To Write Code: The Cultural Fabrication of Programming Notationand Practice
+Paper 603: AL: An Adaptive Learning Support System for Argumentation Skills
+Paper 604: Scents and Sensibility: Evaluating Information Olfactation
+Paper 605: In-game and Out-of-game Social Anxiety Influences Player Motivations,Activities, and Experiences in MMORPGs
+Paper 606: Optimal Sensor Position for a Computer Mouse
+Paper 607: Investigating Collaborative Exploration of Design Alternativeson a Wall-Sized Display
+Paper 608: On-Face Olfactory Interfaces
+Paper 609: Charge for a whole day: Extending Battery Life for BCI Wearablesusing a Lightweight Wake-Up Command
+Paper 610: Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models
+Paper 611: Callisto: Capturing the “Why” by Connecting Conversationswith Computational Narratives
+Paper 612: What HCI Can Learn from ASMR: Becoming Enchanted with the Mundane
+Paper 613: Getting out of Out of Sight: Evaluation of AR Mechanisms for Awarenessand Orientation Support in Occluded Multi-Room Settings
+Paper 614: In Helping a Vulnerable Bot, You Help Yourself: Designing a SocialBot as a Care-Receiver to Promote Mental Health and Reduce Stigma
+Paper 615: Disseminating Research News in HCI: Perceived Hazards, How-To’s,and Opportunities for Innovation
+Paper 616: Lawful Users: Copyright Circumvention and Legal Constraints on Technology Use
+Paper 617: Spinneret: Aiding Creative Ideation through Non-Obvious ConceptAssociations
+Paper 618: Circle of Trust: A New Approach to Mobile Online Safety for Families
+Paper 619: The Curious Case of the Transdiegetic Cow, or a Mission to Foster Other-Oriented Empathy Through Virtual Reality 
+Paper 620: Review of Quantitative Empirical Evaluations of Technology for Peoplewith Visual Impairments
+Paper 621: Practicing Without a License: Design Research as Psychotherapy
+Paper 622: Self-Interruptions of Non-Driving Related Tasks in Automated Vehicles:Mobile vs Head-Up Display
+Paper 623: Welcome to the Course: Early Social Cues Influence Women’s Persistencein Computer Science
+Paper 624: ScreenTrack: Using a Visual History of a Computer Screen to RetrieveDocuments and Web Pages
+Paper 625: Building and Validating a Scale for Secure SoftwareDevelopment Self-Efficacy
+Paper 626: Exploring How Game Genre in Student-Designed Games InfluencesComputational Thinking Development
+Paper 627: Zippro: The Design and Implementation of An Interactive Zipper Breathing Pacer for In-the-Moment Affect Regulation
+
+Paper 629: HomeSound: An Iterative Field Deployment of an In-Home Sound AwarenessSystem for Deaf or Hard of Hearing Users
+Paper 630: On Pause: How Online Instructional Videos are Used to Achieve Practical Tasks
+Paper 631: “Alexa is a Toy”: Exploring Older Adults’ Reasons for Using Limitingand Abandoning Echo
+Paper 632: Beyond the Prototype: Understanding the Challenge of Scaling HardwareDevice Production
+Paper 633: Investigating Roleplaying and Identity Transformation in a Virtual RealityNarrative Experience
+Paper 634: Civic Empowerment through Digitalisation: The Case of Greenlandic Women
+Paper 635: TRACTUS: Understanding and Supporting Source Code Experimentationin Hypothesis-Driven Data Science
+Paper 636: Supporting Visual Artists in Programming through Direct Inspectionand Control of Program Execution
+Paper 637: One does not Simply RSVP: Mental Workload to Select Speed ReadingParameters using Electroencephalography
+Paper 638: Reframing Disability as Competency: Unpacking Everyday TechnologyPractices of People with Visual Impairments
+Paper 639: Understanding Privacy-Related Questions on Stack Overflow
+Paper 640: Improving the Usability and UX of the Swiss Internet Voting Interface
+Paper 641: Personas and Analytics: A Comparative User Study of Efficiencyand Effectiveness for a User Identification Task
+Paper 642: Using Bayes’ Theorem for Command Input: Principle, Models,and Applications
+Paper 643: Manipulation, Learning, and Recall with Tangible Pen-Like Input
+Paper 644: Emergent Self-Regulation Practices in Technology and SocialMedia Use of Individuals Living with Depression
+Paper 645: Broadening Exposure to Socio-Political Opinions via a Pushy Smart Home Device
+Paper 646: OMOY: A Handheld Robotic Gadget that Shifts its Weight to Express Emotions and Intentions
+Paper 647: Pedagogical Agents for Fostering Question-Asking Skillsin Children
+Paper 648: Techniques for Flexible Responsive Visualization Design
+Paper 649: Nailz: Sensing Hand Input with Touch Sensitive Nails
+Paper 650: ThreadSense: Locating Touch on an Extremely Thin Interactive Thread
+Paper 651: Bureaucracy as a Lens for Analyzing and Designing Algorithmic Systems
+Paper 652: Sara, the Lecturer: Improving Learning in Online Education with a Scaffolding-Based Conversational Agent 
+Paper 653: InChorus: Designing Consistent Multimodal Interactions for Data Visualizationon Tablet Devices
+Paper 654: Keeping Community in the Loop: Understanding Wikipedia StakeholderValues for Machine Learning-Based Systems Investigate
+
+Paper 656: Bot in the Bunch: Facilitating Group Chat Discussion by Improving Efficiencyand Participation with a Chatbot
+Paper 657: Drone Chi: Somaesthetic Human-Drone Interaction
+Paper 658: Toward Immersive Self-Driving Simulations: Reports from a User Studyacross Six Platforms
+Paper 659: Would you do it?: Enacting Moral Dilemmas in Virtual Realityfor Understanding Ethical Decision-Making
+Paper 660: Choice of Voices: A Large-Scale Evaluation of Text-to-Speech Voice Qualityfor Long-Form Content
+Paper 661: StoryMakAR: Bringing Stories to Life With An Augmented Reality& Physical Prototyping Toolkit for Youth
+Paper 662: On Conducting Security Developer Studies with CS Students:Examining a Password-Storage Study with CS Students,
+Paper 663: Researching AI Legibility through Design
+Paper 664: Modeling Organizational Culture with Workplace ExperiencesShared on Glassdoor
+Paper 665: Body Follows Eye: Unobtrusive Posture Manipulation Through a DynamicContent Position in Virtual Reality
+Paper 666: Multimodal and Mixed Control of Robotic Endoscopes
+Paper 667: Virtual Field Studies: Conducting Studies on Public Displays in Virtual Reality
+Paper 668: LIFT: Integrating Stakeholder Voices into Algorithmic Team Formation
+Paper 669: Composing Flexibly-Organized Step-by-Step Tutorials from Linked SourceCode, Snippets, and Outputs
+Paper 670: TurkEyes: A Web-Based Toolbox for Crowdsourcing Attention Data
+Paper 671: “I’m hoping they’re an ethical company that won’t do anything that I’ll regret”:Users Perceptions of At-home DNA Testing Companies
+Paper 672: Food Literacy while Shopping: Motivating Informed Food PurchasingBehaviour with a Situated Gameful App
+Paper 673: “I just leaned on it!” Exploring Opportunistic Social Discoveryof a Technologically Augmented Cushion
+Paper 674: HiveFive: Immersion Preserving Attention Guidance in Virtual Reality
+Paper 675: Textlets: Supporting Constraints and Consistency in Text Documents Han L. Han, Miguel A. Renom, Wendy E. Mackay, Michel Beaudouin-Lafon 
+Paper 676: Facilitating Democracy: Concerns from Participatory Design with AsymmetricStakeholder Relations in Health Care
+Paper 677: Trigeminal-based Temperature Illusions
+Paper 678: CheXplain: Enabling Physicians to Explore and Understand Data-Driven, AI-Enabled Medical Imaging Analysis 
+Paper 679: RCEA: Real-time, Continuous Emotion Annotation for Collecting PreciseMobile Video Ground Truth Labels
+Paper 680: Trackly: A Customisable and Pictorial Self-Tracking App to SupportAgency in Multiple Sclerosis Self-Care
+Paper 681: FrownOnError: Interrupting Responses from Smart Speakersby Facial Expressions
+Paper 682: Understanding User Perception of Automated News Generation System
+Paper 683: Soma Design and Sensory Misalignment
+Paper 684: Factors Influencing Perceived Fairness in Algorithmic Decision-Making:Algorithm Outcomes, Development Procedures, and Individual Differences
+Paper 685: User-defined Swarm Robot Control
+Paper 686: Platform for Studying Self-Repairing Auto-Corrections in Mobile Text Entrybased on Brain Activity, Gaze, and Context
+Paper 687: Non-Verbal Auditory Input for Controlling Binary, Discrete, and ContinuousInput in Automotive User Interfaces
+Paper 688: Optimizing for Happiness and Productivity: Modeling OpportuneMoments for Transitions and Breaks at Work
+Paper 689: Right Information, Right Time, Right Place:Physical Alignment and Misalignment in Healthcare Practice
+Paper 690: Improving Reliability of Virtual Collision Responses:A Cue Integration Technique
+Paper 691: Craftspeople as Technical Collaborators: Lessons Learnedthrough an Experimental Weaving Residency
+Paper 692: Telewalk: Towards Free and Endless Walking in Room-Scale Virtual Reality
+Paper 693: Eyes on the Road: Detecting Phone Usage by Drivers Using On-DeviceCameras
+Paper 694: Support Strategies for Remote Guides in Assisting Peoplewith Visual Impairments for Effective Indoor Navigation
+Paper 695: Towards A Design For Life: Redesigning For ReminiscenceWith Looked After Children
+Paper 696: The Next Generation of Human-Drone Partnerships:Co-Designing an Emergency Response System
+Paper 697: The DELAY Framework: Designing for Extended LAtencYDerek L. Hansen, Amanda Lee Hughes, Sophie Cram, Austin Bond Harker, Brinnley Ashton,
+Paper 698: Challenges of Designing Consent: Consent Mechanics in VideoGames as Models for Interactive User Agency
+Paper 699: RunAhead: Exploring Head Scanning based Navigation for Runners
+Paper 700: Design Study “Lite” Methodology: Expediting Design Studiesand Enabling the Synergy of Visualization Pedagogy and Social Good
+Paper 701: It Should Be a Game for Fun “Not Exercise”:Tensions in Designing Health-Related Features for Pokémon GO
+Paper 702: A Postmortem on Playtesting: Exploring the Impact of Playtestingon the Critical Reception of Video Games
+Paper 703: Bug or Feature? Covert Impairments to Human Computer Interaction
+Paper 704: Investigating Opportunities for Crowdsourcing in Church-Based HealthInterventions: A Participatory Design Study
+Paper 705: KirigamiTable: Designing for Proxemic Transitionswith a Shape-Changing Tabletop
+Paper 706: Improving Crowd-Supported GUI Testing with Structural Guidance
+Paper 707: EarBuddy: Enabling On-Face Interaction via Wireless Earbuds
+Paper 708: Supporting Self-Regulation of Children with ADHD Using Wearables:Tensions and Design Challenges
+Paper 709: PneuModule: Using Inflatable Pin Arrays for Reconfigurable Physical Controlson Pressure-Sensitive Touch Surfaces
+Paper 710: Mix&Match: Towards Omitting Modelling Through In-situ Remixingof Model Repository Artifacts in Mixed Reality
+Paper 711: The Role of Eye Gaze in Security and Privacy Applications:Survey and Future HCI Research Directions
+Paper 712: PolySense: Augmenting Textiles with Electrical Functionalityusing In-Situ Polymerization
+Paper 713: Interaction Techniques for Visual Exploration Using Embedded Word-ScaleVisualizations
+Paper 714: Effects of Persuasive Dialogues: Testing Bot Identities and Inquiry Strategies
+Paper 715: Imagining Data-Objects for Reflective Self-Tracking
+Paper 716: Instructional Video Design: Investigating the Impactof Monologue- and Dialogue-style Presentations
+Paper 717: Unwind: Interactive Fish Straightening
+Paper 718: WalkingVibe: Reducing Virtual Reality Sickness and Improving Realismwhile Walking in VR using Unobtrusive Head-mounted Vibrotactile Feedback
+Paper 719: Heatmaps, Shadows, Bubbles, Rays: Comparing Mid-Air Pen PositionVisualizations in Handheld AR
+Paper 720: Keep it Simple: How Visual Complexity and Preferences Impact SearchEfficiency on Websites
+Paper 721: Determining the Extractive Casting Mold of Intimate Platformsthrough Document Theory
+Paper 722: NurseCare: Design and ‘In-The-Wild’ Evaluation of a Mobile Systemto Promote the Ergonomic Transfer of Patients
+Paper 723: Walk The Line: Leveraging Lateral Shifts of the Walking Path as an Input Modality for Head-Mounted Displays Florian Müller, Martin Schmitz, Daniel Schmitt, Sebastian Günther
+Paper 724: Checklist Design Reconsidered: Understanding ChecklistCompliance and Timing of Interactions
+Paper 725: Online Privacy Heuristics that Predict Information DisclosureS. Shyam Sundar, Jinyoung Kim, Mary Beth Rosson, Maria D. Molina
+Paper 726: Social Sensing: Assessing Social Functioning of Patients Livingwith Schizophrenia using Mobile Phone Sensing
+Paper 727: Household Surface Interactions: Understanding User Input Preferencesand Perceived Home Experiences
+Paper 728: Engaging Students with Instructor Solutions in Online ProgrammingHomework
+Paper 729: Interspecies Interactions Mediated by Technology:An Avian Case Study at the Zoo
+Paper 730: Technology for Situated and Emergent Play:A Bridging Concept and Design Agenda
+Paper 731: An Experimental Study of Bias in Platform Worker Ratings:The Role of Performance Quality and Gender
+Paper 732: Comparing Smartphone Speech Recognition and TouchscreenTyping for Composition and Transcription
+Paper 733: Understanding the Use of Crisis Informatics Technology among Older Adults Yixuan Zhang, Nurul Suhaimi, Rana Azghandi, Mary Amulya Joseph, Miso Kim, Jacqueline Griffin, 
+Paper 734: Voice+Tactile: Augmenting In-vehicle Voice User Interface with TactileTouchpad Interaction
+Paper 735: Let’s Draw: Detecting and Measuring Parkinson’s Disease on Smartphones
+Paper 736: Gaiters: Exploring Skin Stretch Feedback on Legs for Enhancing VirtualReality Experiences
+Paper 737: DFSeer: A Visual Analytics Approach to Facilitate Model Selectionfor Demand Forecasting
+Paper 738: Relational Aspects in Patient-provider Interactions:A Facial Paralysis Case Study
+Paper 739: HeadReach: Using Head Tracking to Increase Reachabilityon Mobile Touch Devices
+Paper 740: FitByte: Automatic Diet Monitoring in Unconstrained Situations UsingMultimodal Sensing on Eyeglasses
+Paper 741: Modeling Human Visual Search Performance on Realistic WebpagesUsing Analytical and Deep Learning Methods
+Paper 742: Future Opportunities for IoT to Support People with Parkinson’s
+Paper 743: Investigating Representation of Text and Audio in Educational VRusing Learning Outcomes and EEG
+Paper 744: “Why is ‘Chicago’ deceptive?” Towards Building Model-DrivenTutorials for Humans
+Paper 745: Race, Gender and Beauty: The Effect of Information Provisionon Online Hiring Biases
+Paper 746: Automated Class Discovery and One-Shot Interactionsfor Acoustic Activity Recognition
+Paper 747: Understanding the Heisenberg Effect of Spatial Interaction:A Selection Induced Error for Spatially Tracked Input Devices
+Paper 748: How to Trick AI: Users’ Strategies for Protecting Themselvesfrom Automatic Personality Assessment
+Paper 749: How Relevant is Hick’s Law for HCI?Wanyu Liu (IRCAM Centre Pompidou; Télécom Paris, Institut Polytechnique de Paris; Université
+Paper 750: MUBS: A Personalized Recommender System for Behavioral Activationin Mental Health
+Paper 751: Dziban: Balancing Agency & Automation in Visualization Designvia Anchored Recommendations
+Paper 752: Understanding Cybersecurity Practices in Emergency Departments
+Paper 753: QMaps: Engaging Students in Voluntary Question Generation and Linking
+Paper 754: Who Are You Asking?: Qualitative Methods for Involving AAC Usersas Primary Research Participants
+Paper 755: Autonomous Vehicle-Cyclist Interaction: Peril and Promise
+Paper 756: Metro Futures: Experience-Centred Co-Design at Scale
+Paper 757: Auditory Display in Interactive Science Simulations: Description andSonification Support Interaction and Enhance Opportunities for Learning Narrative: the Effects of Prior Knowledge Elicitationin Provocative Topics
+
+Paper 759: Squeeze the Ball: Designing an Interactive Playground towardsAiding Social Activities of Children with Low-Function Autism
+Paper 760: Under Surveillance: Technology Practices of those Monitored by the State
