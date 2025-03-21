@@ -11,7 +11,9 @@ for (const [topic, keywords] of topicAndKeywords) {
 	const matches = paths.flatMap((path) => {
 		const text = readFileSync(path, { encoding: 'utf8' });
 		return [...text.matchAll(regex)].map((match) =>
-			`${match[0]} ('${basename(path, '.txt')})`.replaceAll(/ {2,}/g, ' '),
+			`${match[0]} ('${basename(path, '.txt')})`
+				.replace(/^paper *(\d+):?/i, 'Paper $1:')
+				.replaceAll(/ {2,}/g, ' '),
 		);
 	});
 	writeFileSync(join(import.meta.dirname, `/extracted/${topic}.txt`), matches.join('\n'));
