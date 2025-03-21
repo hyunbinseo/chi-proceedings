@@ -2,7 +2,11 @@ import { globSync, readFileSync, writeFileSync } from 'node:fs';
 import { basename, join } from 'node:path';
 
 const topicAndKeywords = new Map([
-	['elderly', ['elderly', 'older']], //
+	['accessibility', ['accessibility']],
+	['commerce', ['commerce']],
+	['education', ['metaverse', 'education']],
+	['elderly', ['elderly', 'older']],
+	['location', ['location']],
 ]);
 
 for (const [topic, keywords] of topicAndKeywords) {
